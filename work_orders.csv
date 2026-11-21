@@ -1,0 +1,1001 @@
+﻿work_order_id,connection_id,issue_type,reported_date,priority,work_order_status,resolved_date
+WO0001,W0822,Service Restoration,3/5/2026,Medium,Resolved,3/7/2026
+WO0002,W0433,Illegal Connection Check,6/19/2026,Low,Resolved,6/25/2026
+WO0003,W0985,Valve Repair,5/21/2025,Medium,In Progress,
+WO0004,W0182,Quality Complaint,4/16/2025,Medium,Resolved,4/24/2025
+WO0005,W0365,Valve Repair,12/22/2025,Low,In Progress,
+WO0006,W0026,Valve Repair,8/20/2026,High,Open,
+WO0007,W0806,Valve Repair,5/9/2025,Low,Resolved,5/11/2025
+WO0008,W0376,Service Restoration,3/16/2025,Medium,Resolved,3/24/2025
+WO0009,W0456,Valve Repair,1/21/2025,Medium,Resolved,2/2/2025
+WO0010,W0258,Valve Repair,3/13/2026,Low,Assigned,
+WO0011,W0383,Service Restoration,6/9/2025,High,Resolved,6/11/2025
+WO0012,W0511,Service Restoration,6/9/2025,Medium,In Progress,
+WO0013,W0796,Low Pressure,8/26/2025,High,Assigned,
+WO0014,W0572,Meter Fault,7/2/2026,Medium,Resolved,7/14/2026
+WO0015,W0819,Meter Fault,9/7/2026,Low,Resolved,9/19/2026
+WO0016,W0247,Valve Repair,4/23/2025,Low,In Progress,
+WO0017,W0200,Service Restoration,4/9/2025,Low,Open,
+WO0018,W0641,Meter Fault,3/8/2026,Low,Resolved,3/9/2026
+WO0019,W0987,Valve Repair,5/24/2026,Low,Resolved,6/4/2026
+WO0020,W0496,Meter Fault,11/8/2025,High,Resolved,11/14/2025
+WO0021,W0792,Meter Fault,2/1/2026,Low,Assigned,
+WO0022,W0475,Valve Repair,5/2/2026,High,Resolved,5/13/2026
+WO0023,W0308,Illegal Connection Check,8/1/2025,Low,In Progress,
+WO0024,W0281,Meter Fault,8/3/2026,High,Assigned,
+WO0025,W0615,No Water,10/5/2026,Medium,Assigned,
+WO0026,W0513,Quality Complaint,5/2/2026,Medium,Open,
+WO0027,W0524,Service Restoration,12/15/2025,High,Resolved,12/25/2025
+WO0028,W0405,Low Pressure,9/4/2026,Low,Resolved,9/10/2026
+WO0029,W0645,Quality Complaint,4/9/2026,Medium,In Progress,
+WO0030,W0002,Low Pressure,3/17/2026,Low,Resolved,3/23/2026
+WO0031,W0776,Low Pressure,11/4/2025,Low,Resolved,11/14/2025
+WO0032,W0825,Illegal Connection Check,12/22/2025,Emergency,Resolved,1/1/2026
+WO0033,W0229,Meter Fault,4/14/2026,Medium,Resolved,4/19/2026
+WO0034,W0680,Meter Fault,8/1/2025,Medium,Open,
+WO0035,W0581,Illegal Connection Check,9/27/2026,Medium,In Progress,
+WO0036,W0616,Quality Complaint,6/16/2025,Medium,Resolved,6/23/2025
+WO0037,W0233,Leak Inspection,1/15/2025,Medium,Resolved,1/15/2025
+WO0038,W0262,Illegal Connection Check,7/15/2026,Emergency,Resolved,7/18/2026
+WO0039,W0199,Low Pressure,10/7/2026,Low,In Progress,
+WO0040,W0798,Leak Inspection,5/10/2025,Medium,Open,
+WO0041,W0713,Service Restoration,4/1/2026,Medium,Resolved,4/3/2026
+WO0042,W0667,No Water,4/8/2025,High,Open,
+WO0043,W0172,Leak Inspection,11/24/2025,Low,Resolved,12/4/2025
+WO0044,W0969,Valve Repair,8/2/2025,Medium,In Progress,
+WO0045,W0390,No Water,12/20/2025,Medium,Open,
+WO0046,W0194,Illegal Connection Check,6/20/2025,Medium,Resolved,6/30/2025
+WO0047,W0319,Service Restoration,9/4/2025,High,Resolved,9/7/2025
+WO0048,W0800,Leak Inspection,12/20/2025,Medium,Resolved,12/22/2025
+WO0049,W0083,Quality Complaint,5/26/2026,Medium,In Progress,
+WO0050,W0021,Illegal Connection Check,6/1/2026,Medium,Resolved,6/5/2026
+WO0051,W0396,Leak Inspection,6/11/2026,Low,Resolved,6/21/2026
+WO0052,W0383,Illegal Connection Check,6/25/2026,Low,Assigned,
+WO0053,W0858,Illegal Connection Check,7/18/2026,Low,Resolved,7/19/2026
+WO0054,W0196,Low Pressure,3/21/2026,High,Resolved,3/28/2026
+WO0055,W0976,Leak Inspection,8/8/2026,High,Resolved,8/16/2026
+WO0056,W0587,Valve Repair,6/29/2025,Medium,Open,
+WO0057,W0875,Quality Complaint,7/16/2025,Medium,Assigned,
+WO0058,W0487,Low Pressure,5/28/2025,Medium,Open,
+WO0059,W0208,No Water,4/25/2026,Medium,Resolved,5/1/2026
+WO0060,W0046,Low Pressure,1/22/2026,Medium,In Progress,
+WO0061,W0168,Leak Inspection,7/3/2025,High,Assigned,
+WO0062,W0716,Service Restoration,6/18/2025,Medium,In Progress,
+WO0063,W0452,Meter Fault,10/7/2025,Medium,Resolved,10/10/2025
+WO0064,W0221,Low Pressure,5/19/2026,Medium,Resolved,5/30/2026
+WO0065,W0335,Service Restoration,7/9/2025,Medium,Cancelled,
+WO0066,W0896,Meter Fault,5/14/2025,Medium,Resolved,5/24/2025
+WO0067,W0513,Low Pressure,10/18/2025,Medium,Resolved,10/18/2025
+WO0068,W0858,Low Pressure,6/26/2025,Medium,Open,
+WO0069,W0924,Valve Repair,5/18/2026,Low,In Progress,
+WO0070,W0582,Service Restoration,8/10/2026,Low,Assigned,
+WO0071,W0882,Service Restoration,3/2/2026,Emergency,In Progress,
+WO0072,W0069,Valve Repair,6/22/2026,Medium,Resolved,7/3/2026
+WO0073,W0150,Meter Fault,2/6/2026,Medium,In Progress,
+WO0074,W0505,Meter Fault,3/15/2026,Medium,Cancelled,
+WO0075,W0053,Low Pressure,4/17/2025,Emergency,Resolved,4/23/2025
+WO0076,W0238,Meter Fault,8/13/2025,Medium,In Progress,
+WO0077,W0316,Illegal Connection Check,8/19/2026,High,In Progress,
+WO0078,W0084,Leak Inspection,5/22/2026,Medium,Assigned,
+WO0079,W0124,Illegal Connection Check,11/10/2026,Low,Assigned,
+WO0080,W0299,Illegal Connection Check,3/13/2026,Low,Resolved,3/22/2026
+WO0081,W0938,Illegal Connection Check,11/7/2025,Low,Resolved,11/9/2025
+WO0082,W0899,Illegal Connection Check,8/29/2025,High,Resolved,9/1/2025
+WO0083,W0317,Service Restoration,8/4/2025,Medium,Resolved,8/13/2025
+WO0084,W0994,Illegal Connection Check,7/15/2026,Medium,Open,
+WO0085,W0450,Valve Repair,3/31/2026,High,Resolved,4/10/2026
+WO0086,W0050,Leak Inspection,1/3/2026,Low,Resolved,1/4/2026
+WO0087,W0423,Leak Inspection,2/15/2025,Emergency,Resolved,2/15/2025
+WO0088,W0622,Leak Inspection,2/17/2026,Emergency,In Progress,
+WO0089,W0575,Illegal Connection Check,3/14/2026,High,Resolved,3/25/2026
+WO0090,W0812,Valve Repair,4/19/2025,Low,Resolved,4/28/2025
+WO0091,W0494,Service Restoration,4/17/2026,Emergency,Resolved,4/20/2026
+WO0092,W0522,Meter Fault,10/21/2025,Low,Resolved,10/31/2025
+WO0093,W0430,Low Pressure,3/11/2026,Low,Resolved,3/16/2026
+WO0094,W0678,Service Restoration,2/15/2025,Medium,Resolved,2/18/2025
+WO0095,W0352,Low Pressure,1/20/2025,Medium,Assigned,
+WO0096,W0185,Quality Complaint,11/20/2025,Medium,Assigned,
+WO0097,W0574,Leak Inspection,11/14/2025,Low,Resolved,11/18/2025
+WO0098,W0490,Valve Repair,2/7/2026,High,Assigned,
+WO0099,W0260,Quality Complaint,8/18/2025,Medium,In Progress,
+WO0100,W0514,Low Pressure,7/24/2025,Low,Resolved,7/24/2025
+WO0101,W0075,Illegal Connection Check,2/13/2026,Medium,Assigned,
+WO0102,W0257,Leak Inspection,5/21/2026,Low,Resolved,5/27/2026
+WO0103,W0039,Illegal Connection Check,7/17/2026,Low,Assigned,
+WO0104,W0889,No Water,10/12/2026,High,Assigned,
+WO0105,W0140,Valve Repair,11/24/2025,High,Cancelled,
+WO0106,W0399,Quality Complaint,7/27/2026,Medium,Cancelled,
+WO0107,W0150,Leak Inspection,5/9/2025,Medium,Resolved,5/18/2025
+WO0108,W0086,Valve Repair,1/14/2025,Medium,In Progress,
+WO0109,W0036,Service Restoration,9/11/2026,Medium,Open,
+WO0110,W0127,No Water,10/13/2026,Medium,Resolved,10/20/2026
+WO0111,W0351,Meter Fault,2/6/2025,Medium,Resolved,2/18/2025
+WO0112,W0880,Service Restoration,6/30/2025,Low,Assigned,
+WO0113,W0306,No Water,8/2/2026,High,Resolved,8/3/2026
+WO0114,W0799,Meter Fault,9/15/2026,High,In Progress,
+WO0115,W0525,Valve Repair,5/28/2025,Emergency,In Progress,
+WO0116,W0768,Quality Complaint,3/27/2026,Medium,Open,
+WO0117,W0858,Low Pressure,7/14/2025,Medium,Assigned,
+WO0118,W0761,Illegal Connection Check,1/28/2026,High,Resolved,2/8/2026
+WO0119,W0382,Quality Complaint,4/22/2025,Low,In Progress,
+WO0120,W0059,Service Restoration,5/8/2025,Medium,Resolved,5/18/2025
+WO0121,W0821,No Water,8/1/2025,High,Cancelled,
+WO0122,W0511,Low Pressure,5/25/2026,High,Resolved,6/2/2026
+WO0123,W0114,Low Pressure,3/16/2025,Low,Resolved,3/25/2025
+WO0124,W0970,Quality Complaint,2/21/2025,Medium,Resolved,2/24/2025
+WO0125,W0443,Leak Inspection,7/20/2025,Medium,Cancelled,
+WO0126,W0111,Low Pressure,5/16/2026,Medium,Cancelled,
+WO0127,W0137,No Water,1/2/2025,Low,Open,
+WO0128,W0178,Leak Inspection,9/21/2025,Medium,Assigned,
+WO0129,W0437,Leak Inspection,7/13/2025,Medium,Resolved,7/19/2025
+WO0130,W0038,Leak Inspection,6/20/2025,Medium,Resolved,6/22/2025
+WO0131,W0720,Quality Complaint,2/3/2025,Medium,Resolved,2/5/2025
+WO0132,W0247,Low Pressure,7/27/2026,Medium,Resolved,7/29/2026
+WO0133,W0911,No Water,7/19/2026,High,Open,
+WO0134,W0027,Illegal Connection Check,11/9/2025,Medium,Resolved,11/9/2025
+WO0135,W0105,Low Pressure,9/22/2025,Medium,Resolved,10/2/2025
+WO0136,W0410,Low Pressure,8/8/2026,Medium,Resolved,8/15/2026
+WO0137,W0485,Valve Repair,1/17/2025,Medium,In Progress,
+WO0138,W0992,Meter Fault,11/21/2025,Low,Resolved,11/28/2025
+WO0139,W0134,Valve Repair,4/16/2026,High,Resolved,4/24/2026
+WO0140,W0922,Illegal Connection Check,9/20/2025,Low,Resolved,9/21/2025
+WO0141,W0144,Leak Inspection,3/27/2025,High,Cancelled,
+WO0142,W0197,No Water,1/16/2025,Medium,Resolved,1/18/2025
+WO0143,W0020,Illegal Connection Check,11/10/2025,High,Resolved,11/11/2025
+WO0144,W0770,Meter Fault,6/29/2026,Low,Resolved,7/5/2026
+WO0145,W0520,Low Pressure,12/11/2025,High,In Progress,
+WO0146,W0016,No Water,10/31/2025,Medium,In Progress,
+WO0147,W0342,Service Restoration,6/1/2025,Medium,Resolved,6/4/2025
+WO0148,W0437,Valve Repair,5/29/2025,High,In Progress,
+WO0149,W0241,Valve Repair,8/6/2026,Medium,Open,
+WO0150,W0309,Leak Inspection,11/14/2025,High,Resolved,11/24/2025
+WO0151,W0687,Illegal Connection Check,11/9/2025,High,Open,
+WO0152,W0385,Illegal Connection Check,9/19/2025,Low,In Progress,
+WO0153,W0921,Service Restoration,10/28/2026,Emergency,Resolved,11/1/2026
+WO0154,W0082,Meter Fault,6/4/2025,High,Resolved,6/6/2025
+WO0155,W0404,Leak Inspection,7/7/2026,Emergency,In Progress,
+WO0156,W0288,Illegal Connection Check,1/20/2025,High,Resolved,1/30/2025
+WO0157,W0631,Illegal Connection Check,3/6/2025,Medium,Open,
+WO0158,W0804,Quality Complaint,10/5/2025,Medium,Assigned,
+WO0159,W0133,Meter Fault,12/25/2025,Medium,In Progress,
+WO0160,W0801,Illegal Connection Check,5/22/2025,Medium,Open,
+WO0161,W0416,Service Restoration,10/29/2025,Emergency,Assigned,
+WO0162,W0846,Illegal Connection Check,2/22/2025,Medium,Open,
+WO0163,W0147,No Water,5/22/2025,High,Resolved,5/23/2025
+WO0164,W0177,Meter Fault,6/29/2026,High,Resolved,7/3/2026
+WO0165,W0975,No Water,10/16/2026,Emergency,In Progress,
+WO0166,W0562,Low Pressure,2/15/2026,High,Resolved,2/22/2026
+WO0167,W0751,Low Pressure,7/4/2025,Medium,Resolved,7/5/2025
+WO0168,W0246,No Water,7/31/2025,Low,In Progress,
+WO0169,W0463,Meter Fault,9/22/2026,High,Resolved,10/1/2026
+WO0170,W0217,Meter Fault,2/25/2025,High,Resolved,3/9/2025
+WO0171,W0174,Service Restoration,1/30/2026,Low,Resolved,2/1/2026
+WO0172,W0793,Valve Repair,10/31/2026,High,In Progress,
+WO0173,W0708,Meter Fault,1/23/2026,Medium,Resolved,2/2/2026
+WO0174,W0862,Leak Inspection,8/20/2026,High,Resolved,9/1/2026
+WO0175,W0209,Illegal Connection Check,4/30/2026,Medium,Resolved,5/10/2026
+WO0176,W0396,Quality Complaint,4/27/2025,High,In Progress,
+WO0177,W0106,Meter Fault,6/19/2026,Low,In Progress,
+WO0178,W0591,Quality Complaint,8/19/2026,High,Open,
+WO0179,W0943,Low Pressure,8/28/2025,Medium,In Progress,
+WO0180,W0122,Meter Fault,5/21/2026,High,In Progress,
+WO0181,W0504,Valve Repair,11/29/2025,Low,Resolved,12/7/2025
+WO0182,W0082,Meter Fault,9/24/2025,Medium,Resolved,10/6/2025
+WO0183,W0892,Illegal Connection Check,1/9/2026,Low,Resolved,1/15/2026
+WO0184,W0482,Quality Complaint,2/28/2026,Medium,Assigned,
+WO0185,W0684,Service Restoration,1/2/2025,Low,Resolved,1/10/2025
+WO0186,W0328,Meter Fault,5/19/2025,High,Assigned,
+WO0187,W0194,Quality Complaint,3/25/2026,Medium,Assigned,
+WO0188,W0510,No Water,3/15/2025,Medium,In Progress,
+WO0189,W0796,Valve Repair,1/9/2025,High,Resolved,1/14/2025
+WO0190,W0251,Illegal Connection Check,9/25/2026,Medium,Assigned,
+WO0191,W0715,Low Pressure,3/27/2026,High,Open,
+WO0192,W0578,Quality Complaint,12/10/2025,Medium,Assigned,
+WO0193,W0467,Service Restoration,5/13/2026,High,In Progress,
+WO0194,W0401,Illegal Connection Check,5/5/2026,Low,Resolved,5/7/2026
+WO0195,W0288,Service Restoration,9/7/2026,Medium,Assigned,
+WO0196,W0821,Low Pressure,8/3/2025,Low,Resolved,8/3/2025
+WO0197,W0864,Meter Fault,6/8/2026,Medium,Resolved,6/13/2026
+WO0198,W0192,Meter Fault,11/8/2025,Emergency,Resolved,11/19/2025
+WO0199,W0237,Quality Complaint,1/25/2026,Medium,Resolved,2/3/2026
+WO0200,W0674,No Water,6/29/2026,Medium,In Progress,
+WO0201,W0849,Low Pressure,5/21/2025,Low,In Progress,
+WO0202,W0142,Service Restoration,10/15/2026,Low,Resolved,10/26/2026
+WO0203,W0839,Valve Repair,8/17/2026,Medium,Resolved,8/21/2026
+WO0204,W0678,No Water,9/24/2025,Low,In Progress,
+WO0205,W0818,Meter Fault,7/11/2026,High,Resolved,7/20/2026
+WO0206,W0598,Service Restoration,5/9/2025,Low,Resolved,5/11/2025
+WO0207,W0926,No Water,6/30/2025,Low,In Progress,
+WO0208,W0816,No Water,12/7/2025,Low,Resolved,12/12/2025
+WO0209,W0059,Low Pressure,4/12/2025,Low,Cancelled,
+WO0210,W0970,Low Pressure,4/10/2026,High,In Progress,
+WO0211,W0212,Illegal Connection Check,1/22/2026,Medium,Resolved,1/25/2026
+WO0212,W0132,Low Pressure,10/4/2025,High,In Progress,
+WO0213,W0916,Quality Complaint,6/24/2025,High,In Progress,
+WO0214,W0950,Valve Repair,9/4/2025,Emergency,Resolved,9/10/2025
+WO0215,W0009,Illegal Connection Check,9/11/2026,Medium,In Progress,
+WO0216,W0334,Low Pressure,12/3/2025,Medium,Resolved,12/4/2025
+WO0217,W0689,Leak Inspection,2/27/2025,Medium,In Progress,
+WO0218,W0455,Low Pressure,8/9/2026,High,Assigned,
+WO0219,W0603,Service Restoration,4/5/2025,High,Resolved,4/15/2025
+WO0220,W0482,Low Pressure,5/15/2026,Medium,Resolved,5/19/2026
+WO0221,W0646,Quality Complaint,8/3/2025,Medium,In Progress,
+WO0222,W0470,Leak Inspection,5/18/2026,Low,Open,
+WO0223,W0796,No Water,6/20/2026,High,Resolved,7/1/2026
+WO0224,W0040,No Water,7/20/2026,Low,Assigned,
+WO0225,W0802,Quality Complaint,10/27/2026,High,Assigned,
+WO0226,W0670,Service Restoration,8/2/2025,Medium,Resolved,8/13/2025
+WO0227,W0165,Low Pressure,11/6/2025,Medium,Resolved,11/14/2025
+WO0228,W0355,Meter Fault,12/26/2025,High,Resolved,1/3/2026
+WO0229,W0894,Low Pressure,11/10/2025,Medium,Assigned,
+WO0230,W0793,Low Pressure,3/25/2025,High,Resolved,3/27/2025
+WO0231,W0479,Meter Fault,3/7/2026,High,In Progress,
+WO0232,W0105,Meter Fault,3/5/2026,Medium,Resolved,3/6/2026
+WO0233,W0578,Illegal Connection Check,9/18/2025,Medium,Resolved,9/29/2025
+WO0234,W0993,Meter Fault,10/24/2026,Medium,In Progress,
+WO0235,W0904,Illegal Connection Check,2/3/2025,Emergency,Resolved,2/3/2025
+WO0236,W0376,Valve Repair,8/29/2026,Low,Resolved,9/5/2026
+WO0237,W0924,Low Pressure,2/19/2025,Medium,Open,
+WO0238,W0897,Meter Fault,11/22/2025,Medium,Resolved,12/4/2025
+WO0239,W0846,Service Restoration,10/8/2026,Emergency,Resolved,10/10/2026
+WO0240,W0216,Low Pressure,3/30/2025,Low,Assigned,
+WO0241,W0400,No Water,10/10/2026,High,Open,
+WO0242,W0465,Low Pressure,9/3/2025,Medium,Open,
+WO0243,W0288,Illegal Connection Check,5/27/2025,Low,Resolved,5/27/2025
+WO0244,W0109,Leak Inspection,8/6/2026,Medium,Open,
+WO0245,W0952,Leak Inspection,10/13/2025,High,Resolved,10/22/2025
+WO0246,W0614,Low Pressure,12/5/2025,Medium,Open,
+WO0247,W0938,Meter Fault,6/9/2025,Medium,Open,
+WO0248,W0692,Meter Fault,9/20/2025,Medium,Resolved,9/20/2025
+WO0249,W0670,Quality Complaint,12/31/2025,Low,Cancelled,
+WO0250,W0214,Illegal Connection Check,12/26/2025,Medium,Resolved,1/6/2026
+WO0251,W0770,No Water,9/6/2025,Emergency,Resolved,9/14/2025
+WO0252,W0834,Meter Fault,10/10/2025,Medium,Resolved,10/12/2025
+WO0253,W0071,Quality Complaint,6/4/2026,Emergency,Resolved,6/7/2026
+WO0254,W0670,No Water,10/10/2026,High,Resolved,10/10/2026
+WO0255,W0018,Service Restoration,6/29/2026,Low,Resolved,7/1/2026
+WO0256,W0928,Low Pressure,8/12/2025,High,Resolved,8/17/2025
+WO0257,W0122,Quality Complaint,2/12/2026,High,Assigned,
+WO0258,W0119,Illegal Connection Check,3/27/2026,High,Resolved,4/3/2026
+WO0259,W0840,Quality Complaint,4/16/2026,Low,Open,
+WO0260,W0883,Leak Inspection,5/30/2025,Low,Resolved,6/5/2025
+WO0261,W0606,Low Pressure,2/8/2026,Low,Resolved,2/9/2026
+WO0262,W0584,Low Pressure,4/26/2025,Emergency,In Progress,
+WO0263,W0011,Quality Complaint,1/4/2025,Low,In Progress,
+WO0264,W0086,Quality Complaint,11/12/2025,High,Resolved,11/19/2025
+WO0265,W0266,Low Pressure,11/28/2025,High,Resolved,11/29/2025
+WO0266,W0857,Valve Repair,4/12/2025,Low,Open,
+WO0267,W0553,Leak Inspection,5/27/2026,Medium,Resolved,6/8/2026
+WO0268,W0976,Low Pressure,10/21/2025,High,Open,
+WO0269,W0384,Leak Inspection,12/31/2025,Emergency,In Progress,
+WO0270,W0972,Illegal Connection Check,6/10/2025,Emergency,Resolved,6/14/2025
+WO0271,W0659,Service Restoration,8/5/2026,Medium,Resolved,8/13/2026
+WO0272,W0734,Meter Fault,8/10/2025,High,Resolved,8/20/2025
+WO0273,W0743,Illegal Connection Check,2/2/2025,Medium,Open,
+WO0274,W0092,Quality Complaint,6/11/2025,Low,In Progress,
+WO0275,W0146,Quality Complaint,4/30/2026,Low,Resolved,5/11/2026
+WO0276,W0106,Service Restoration,6/4/2026,Low,Resolved,6/11/2026
+WO0277,W0637,Service Restoration,2/26/2026,High,Open,
+WO0278,W0132,Meter Fault,4/2/2025,Medium,Cancelled,
+WO0279,W0045,Leak Inspection,1/31/2025,Medium,Resolved,1/31/2025
+WO0280,W0897,Illegal Connection Check,7/29/2025,Emergency,Assigned,
+WO0281,W0041,Service Restoration,9/12/2026,Medium,Open,
+WO0282,W0977,Illegal Connection Check,1/23/2025,Medium,Cancelled,
+WO0283,W0108,Low Pressure,10/3/2025,Medium,Resolved,10/10/2025
+WO0284,W0641,Low Pressure,3/24/2025,Low,Open,
+WO0285,W0505,Service Restoration,5/27/2025,High,Resolved,6/1/2025
+WO0286,W0983,Quality Complaint,8/6/2025,High,Cancelled,
+WO0287,W0641,Service Restoration,3/3/2025,Medium,In Progress,
+WO0288,W0991,Low Pressure,11/28/2025,Medium,Assigned,
+WO0289,W0214,Leak Inspection,6/14/2025,Medium,In Progress,
+WO0290,W0475,Meter Fault,2/13/2025,Medium,Resolved,2/17/2025
+WO0291,W0122,Illegal Connection Check,6/10/2025,High,Resolved,6/22/2025
+WO0292,W0516,Illegal Connection Check,10/10/2026,Medium,In Progress,
+WO0293,W0461,No Water,1/4/2026,Medium,Resolved,1/5/2026
+WO0294,W0774,Quality Complaint,11/9/2026,Medium,In Progress,
+WO0295,W0582,Leak Inspection,11/18/2025,Medium,Assigned,
+WO0296,W0239,Low Pressure,6/30/2026,Medium,Resolved,6/30/2026
+WO0297,W0766,Meter Fault,10/6/2025,High,Resolved,10/6/2025
+WO0298,W0362,Meter Fault,5/6/2026,Medium,Cancelled,
+WO0299,W0586,Meter Fault,3/23/2025,High,In Progress,
+WO0300,W0253,Low Pressure,3/10/2026,High,In Progress,
+WO0301,W0569,Quality Complaint,6/10/2025,Low,Resolved,6/13/2025
+WO0302,W0922,Leak Inspection,12/29/2025,Medium,Open,
+WO0303,W0493,Low Pressure,11/12/2025,Low,Open,
+WO0304,W0942,Service Restoration,8/31/2026,Medium,Resolved,9/5/2026
+WO0305,W0741,Quality Complaint,11/8/2026,Medium,Resolved,11/11/2026
+WO0306,W0173,Valve Repair,7/23/2026,Medium,Assigned,
+WO0307,W0524,Leak Inspection,3/5/2026,Medium,Resolved,3/15/2026
+WO0308,W0618,Meter Fault,5/14/2025,Medium,Open,
+WO0309,W0108,No Water,1/10/2025,Low,Resolved,1/10/2025
+WO0310,W0318,Valve Repair,1/25/2025,Low,In Progress,
+WO0311,W0461,Service Restoration,3/18/2026,Low,Resolved,3/19/2026
+WO0312,W0165,No Water,1/12/2026,Medium,Open,
+WO0313,W0554,Low Pressure,5/24/2026,Low,In Progress,
+WO0314,W0443,Meter Fault,1/7/2026,High,In Progress,
+WO0315,W0307,Quality Complaint,5/21/2026,High,Open,
+WO0316,W0381,Low Pressure,5/14/2026,Medium,Open,
+WO0317,W0791,Service Restoration,7/7/2025,Medium,Resolved,7/9/2025
+WO0318,W0057,Quality Complaint,1/24/2025,Medium,Cancelled,
+WO0319,W0654,Quality Complaint,11/14/2025,High,Resolved,11/23/2025
+WO0320,W0222,No Water,9/15/2025,Low,Assigned,
+WO0321,W0044,Valve Repair,2/8/2025,High,Resolved,2/14/2025
+WO0322,W0597,Service Restoration,10/28/2026,Medium,In Progress,
+WO0323,W0368,Quality Complaint,1/3/2025,Medium,Cancelled,
+WO0324,W0827,No Water,9/11/2025,Low,Assigned,
+WO0325,W0333,Low Pressure,1/16/2026,Low,Assigned,
+WO0326,W0710,Illegal Connection Check,6/3/2026,High,Resolved,6/11/2026
+WO0327,W0767,No Water,4/2/2025,Medium,Resolved,4/7/2025
+WO0328,W0937,Leak Inspection,1/27/2025,Medium,Open,
+WO0329,W0321,Service Restoration,5/28/2026,Low,Resolved,6/5/2026
+WO0330,W0548,Valve Repair,6/23/2025,Medium,Assigned,
+WO0331,W0475,Quality Complaint,2/2/2026,High,Resolved,2/3/2026
+WO0332,W0861,Quality Complaint,1/10/2025,Medium,Open,
+WO0333,W0700,Quality Complaint,9/21/2026,Medium,Resolved,9/25/2026
+WO0334,W0382,Illegal Connection Check,12/1/2025,Medium,Resolved,12/11/2025
+WO0335,W0091,Quality Complaint,1/17/2025,Low,Resolved,1/22/2025
+WO0336,W0271,Leak Inspection,6/12/2025,High,Open,
+WO0337,W0048,Service Restoration,11/19/2025,Medium,Cancelled,
+WO0338,W0582,Illegal Connection Check,9/2/2025,Low,Resolved,9/4/2025
+WO0339,W0098,Meter Fault,11/20/2025,High,Resolved,11/22/2025
+WO0340,W0783,Valve Repair,11/1/2026,Medium,Resolved,11/10/2026
+WO0341,W0057,Meter Fault,3/11/2026,High,In Progress,
+WO0342,W0225,No Water,12/5/2025,Low,Resolved,12/15/2025
+WO0343,W0576,Quality Complaint,5/18/2025,Low,In Progress,
+WO0344,W0770,Leak Inspection,3/29/2026,Medium,Resolved,4/8/2026
+WO0345,W0341,Low Pressure,3/30/2025,Emergency,Resolved,4/8/2025
+WO0346,W0779,Service Restoration,2/28/2026,Medium,Resolved,3/4/2026
+WO0347,W0188,Quality Complaint,9/12/2026,Medium,Assigned,
+WO0348,W0467,Leak Inspection,6/30/2025,Medium,Resolved,7/9/2025
+WO0349,W0710,Service Restoration,8/26/2025,Low,Resolved,8/29/2025
+WO0350,W0712,No Water,6/18/2025,High,Open,
+WO0351,W0267,Low Pressure,11/15/2025,High,Resolved,11/19/2025
+WO0352,W0414,Valve Repair,10/28/2025,Medium,Resolved,10/29/2025
+WO0353,W0001,No Water,6/15/2025,High,Resolved,6/25/2025
+WO0354,W0382,Leak Inspection,10/7/2025,Medium,Resolved,10/12/2025
+WO0355,W0051,Quality Complaint,1/12/2026,Medium,Assigned,
+WO0356,W0323,Service Restoration,1/26/2026,Medium,Resolved,2/1/2026
+WO0357,W0059,Leak Inspection,6/5/2026,Medium,Assigned,
+WO0358,W0848,Leak Inspection,4/15/2026,Low,Open,
+WO0359,W0553,Service Restoration,6/18/2026,High,Assigned,
+WO0360,W0799,Leak Inspection,1/22/2026,High,Assigned,
+WO0361,W0202,Low Pressure,5/31/2026,Low,Assigned,
+WO0362,W0286,Leak Inspection,11/7/2026,High,Assigned,
+WO0363,W0157,No Water,2/7/2025,High,Resolved,2/7/2025
+WO0364,W0711,Quality Complaint,5/17/2026,Emergency,Resolved,5/26/2026
+WO0365,W0133,Illegal Connection Check,6/28/2026,Medium,Open,
+WO0366,W0326,Low Pressure,7/6/2026,Medium,In Progress,
+WO0367,W0774,Service Restoration,7/26/2026,Medium,Resolved,7/27/2026
+WO0368,W0258,No Water,5/10/2025,Medium,Resolved,5/15/2025
+WO0369,W0433,Meter Fault,1/14/2026,Medium,In Progress,
+WO0370,W0422,Service Restoration,9/2/2025,Medium,Resolved,9/7/2025
+WO0371,W0173,Illegal Connection Check,8/7/2026,Medium,Resolved,8/11/2026
+WO0372,W0703,Valve Repair,8/19/2025,Low,Cancelled,
+WO0373,W0984,Low Pressure,2/7/2025,Low,Resolved,2/17/2025
+WO0374,W0539,No Water,3/10/2025,Low,Resolved,3/13/2025
+WO0375,W0205,Leak Inspection,10/1/2025,Medium,Resolved,10/9/2025
+WO0376,W0674,Service Restoration,6/1/2026,High,Open,
+WO0377,W0108,Valve Repair,2/14/2026,High,Assigned,
+WO0378,W0788,Service Restoration,2/17/2025,Medium,Open,
+WO0379,W0263,Illegal Connection Check,3/1/2025,Low,In Progress,
+WO0380,W0057,No Water,2/3/2025,Low,Resolved,2/11/2025
+WO0381,W0964,Quality Complaint,11/1/2025,Low,In Progress,
+WO0382,W0902,Service Restoration,7/1/2025,Low,Resolved,7/6/2025
+WO0383,W0090,Service Restoration,7/8/2025,Medium,In Progress,
+WO0384,W0416,Quality Complaint,6/26/2025,High,Resolved,7/2/2025
+WO0385,W0131,Service Restoration,6/11/2025,Low,Assigned,
+WO0386,W0769,Quality Complaint,9/12/2026,High,Open,
+WO0387,W0896,Illegal Connection Check,12/17/2025,Emergency,In Progress,
+WO0388,W0478,Valve Repair,6/14/2026,Medium,Resolved,6/21/2026
+WO0389,W0489,Meter Fault,2/2/2026,Medium,Assigned,
+WO0390,W0450,Leak Inspection,8/24/2026,Medium,In Progress,
+WO0391,W0305,Quality Complaint,6/1/2025,Medium,Resolved,6/10/2025
+WO0392,W0031,Meter Fault,6/23/2025,Medium,Open,
+WO0393,W0054,Low Pressure,10/16/2026,Medium,Resolved,10/18/2026
+WO0394,W0800,Quality Complaint,11/9/2026,Medium,Resolved,11/15/2026
+WO0395,W0173,Service Restoration,4/10/2025,Emergency,Open,
+WO0396,W0891,Leak Inspection,2/28/2025,Medium,Resolved,3/3/2025
+WO0397,W0502,Valve Repair,11/7/2025,Low,In Progress,
+WO0398,W0826,Valve Repair,6/30/2025,Low,Open,
+WO0399,W0557,No Water,2/23/2025,Medium,Resolved,2/23/2025
+WO0400,W0567,Illegal Connection Check,12/18/2025,Medium,Resolved,12/20/2025
+WO0401,W0755,Illegal Connection Check,10/27/2026,Low,Resolved,11/1/2026
+WO0402,W0263,Leak Inspection,1/26/2026,Low,Assigned,
+WO0403,W0923,Illegal Connection Check,4/8/2025,High,Resolved,4/12/2025
+WO0404,W0720,Illegal Connection Check,11/10/2025,Low,Resolved,11/21/2025
+WO0405,W0133,Leak Inspection,6/30/2026,High,Resolved,7/9/2026
+WO0406,W0573,Leak Inspection,10/31/2026,Medium,Assigned,
+WO0407,W0675,Low Pressure,3/28/2025,Medium,Resolved,4/8/2025
+WO0408,W0503,No Water,12/13/2025,Low,Resolved,12/14/2025
+WO0409,W0865,Low Pressure,4/11/2025,Low,Cancelled,
+WO0410,W0321,Service Restoration,1/15/2026,Medium,In Progress,
+WO0411,W0329,Low Pressure,11/11/2026,Medium,Assigned,
+WO0412,W0211,Service Restoration,5/23/2025,Medium,Assigned,
+WO0413,W0328,Service Restoration,7/18/2025,Low,Open,
+WO0414,W0620,Illegal Connection Check,10/13/2025,Medium,Resolved,10/14/2025
+WO0415,W0486,Service Restoration,7/19/2026,Medium,Cancelled,
+WO0416,W0041,Low Pressure,2/2/2026,Medium,Resolved,2/9/2026
+WO0417,W0398,Valve Repair,6/6/2025,High,In Progress,
+WO0418,W0332,Quality Complaint,4/4/2026,High,Resolved,4/12/2026
+WO0419,W0927,Quality Complaint,9/9/2026,Low,Assigned,
+WO0420,W0343,Service Restoration,10/30/2025,Medium,Assigned,
+WO0421,W0508,Leak Inspection,8/2/2025,Medium,Open,
+WO0422,W0295,Service Restoration,12/31/2025,Low,Assigned,
+WO0423,W0105,Service Restoration,11/5/2025,Low,Open,
+WO0424,W0382,Service Restoration,11/6/2025,Medium,Assigned,
+WO0425,W0109,No Water,10/10/2026,Low,Resolved,10/11/2026
+WO0426,W0878,Meter Fault,4/22/2026,Emergency,Resolved,4/23/2026
+WO0427,W0652,Illegal Connection Check,9/9/2026,Low,Resolved,9/17/2026
+WO0428,W0435,Low Pressure,6/16/2026,High,Resolved,6/19/2026
+WO0429,W0397,Quality Complaint,9/6/2026,Low,Resolved,9/17/2026
+WO0430,W0463,Low Pressure,6/9/2026,High,In Progress,
+WO0431,W0808,Service Restoration,4/28/2025,Medium,Resolved,5/6/2025
+WO0432,W0928,No Water,7/2/2025,Low,Assigned,
+WO0433,W0634,No Water,2/16/2025,Medium,Resolved,2/18/2025
+WO0434,W0085,No Water,12/18/2025,High,Resolved,12/24/2025
+WO0435,W0700,Meter Fault,10/12/2026,High,Resolved,10/16/2026
+WO0436,W0888,Low Pressure,5/7/2025,Medium,Resolved,5/12/2025
+WO0437,W0704,Quality Complaint,12/5/2025,High,Resolved,12/7/2025
+WO0438,W0489,Valve Repair,8/10/2025,Medium,Resolved,8/20/2025
+WO0439,W0082,Meter Fault,2/7/2026,Low,Resolved,2/19/2026
+WO0440,W0894,Illegal Connection Check,1/5/2025,Medium,Assigned,
+WO0441,W0999,No Water,4/9/2025,Medium,Resolved,4/16/2025
+WO0442,W0598,Meter Fault,8/5/2026,High,In Progress,
+WO0443,W0077,Quality Complaint,5/3/2025,Medium,Resolved,5/3/2025
+WO0444,W0785,Quality Complaint,3/1/2025,High,Resolved,3/3/2025
+WO0445,W0101,Service Restoration,8/15/2026,Low,Resolved,8/23/2026
+WO0446,W0783,Quality Complaint,11/4/2025,Low,Assigned,
+WO0447,W0744,Illegal Connection Check,7/11/2025,High,Resolved,7/23/2025
+WO0448,W0585,Illegal Connection Check,10/8/2025,Low,Resolved,10/9/2025
+WO0449,W0640,Low Pressure,5/16/2026,Medium,Assigned,
+WO0450,W0222,No Water,8/27/2026,Medium,Resolved,9/3/2026
+WO0451,W0056,Meter Fault,11/14/2025,Medium,Assigned,
+WO0452,W0684,Illegal Connection Check,8/11/2025,High,Assigned,
+WO0453,W0736,Valve Repair,2/21/2026,Medium,Resolved,2/22/2026
+WO0454,W0791,Low Pressure,3/12/2026,Medium,Assigned,
+WO0455,W0115,Low Pressure,12/29/2025,Medium,Resolved,1/3/2026
+WO0456,W0988,Leak Inspection,10/9/2026,Low,Resolved,10/17/2026
+WO0457,W0262,No Water,4/4/2025,Low,Resolved,4/9/2025
+WO0458,W0410,Service Restoration,7/12/2026,Emergency,Resolved,7/24/2026
+WO0459,W0757,No Water,11/16/2025,Low,In Progress,
+WO0460,W0350,Meter Fault,3/21/2025,Low,Assigned,
+WO0461,W0474,Low Pressure,7/23/2025,Medium,Resolved,7/23/2025
+WO0462,W0337,No Water,6/28/2026,Emergency,Assigned,
+WO0463,W0680,Valve Repair,2/4/2025,Low,Resolved,2/14/2025
+WO0464,W0324,Leak Inspection,7/7/2025,Low,Resolved,7/9/2025
+WO0465,W0428,Low Pressure,10/13/2025,Medium,In Progress,
+WO0466,W0299,Illegal Connection Check,9/15/2025,Medium,Resolved,9/25/2025
+WO0467,W0651,Service Restoration,2/25/2026,High,Open,
+WO0468,W0693,Valve Repair,7/20/2026,Medium,Resolved,7/24/2026
+WO0469,W0408,No Water,2/28/2025,High,Resolved,3/8/2025
+WO0470,W0418,Quality Complaint,6/5/2026,Low,Resolved,6/13/2026
+WO0471,W0831,Service Restoration,3/24/2026,Medium,Resolved,3/31/2026
+WO0472,W0374,Illegal Connection Check,9/23/2026,Medium,Resolved,9/23/2026
+WO0473,W0866,Illegal Connection Check,2/6/2026,Emergency,Resolved,2/9/2026
+WO0474,W0200,Meter Fault,1/19/2025,Medium,Resolved,1/31/2025
+WO0475,W0837,Leak Inspection,9/4/2026,High,Assigned,
+WO0476,W0745,Meter Fault,8/6/2025,Medium,Resolved,8/12/2025
+WO0477,W0225,Valve Repair,10/30/2026,High,Resolved,11/5/2026
+WO0478,W0641,Illegal Connection Check,6/10/2026,High,Assigned,
+WO0479,W0487,Service Restoration,1/6/2025,Low,Resolved,1/11/2025
+WO0480,W0776,Leak Inspection,4/23/2025,Medium,In Progress,
+WO0481,W0792,Low Pressure,1/15/2026,High,Resolved,1/23/2026
+WO0482,W0013,Quality Complaint,6/4/2025,Low,Resolved,6/9/2025
+WO0483,W0453,Meter Fault,5/10/2025,Medium,In Progress,
+WO0484,W0206,Leak Inspection,7/20/2026,High,Resolved,7/29/2026
+WO0485,W0573,Service Restoration,3/1/2026,Low,In Progress,
+WO0486,W0554,Meter Fault,4/11/2025,High,Open,
+WO0487,W0935,Meter Fault,8/1/2026,Medium,Resolved,8/2/2026
+WO0488,W0374,Meter Fault,12/29/2025,Medium,Assigned,
+WO0489,W0399,Meter Fault,7/29/2026,High,Assigned,
+WO0490,W0501,Valve Repair,12/17/2025,Emergency,In Progress,
+WO0491,W0194,Leak Inspection,5/28/2025,Low,In Progress,
+WO0492,W0343,Illegal Connection Check,5/23/2026,Low,Open,
+WO0493,W0684,Leak Inspection,6/27/2026,Low,Resolved,7/5/2026
+WO0494,W0242,Illegal Connection Check,10/6/2025,Emergency,Cancelled,
+WO0495,W0056,Valve Repair,12/19/2025,High,Resolved,12/23/2025
+WO0496,W0357,Valve Repair,1/4/2025,High,Resolved,1/6/2025
+WO0497,W0375,Quality Complaint,10/2/2026,Low,In Progress,
+WO0498,W0995,Illegal Connection Check,5/9/2025,Low,Assigned,
+WO0499,W0050,No Water,8/2/2025,High,Resolved,8/5/2025
+WO0500,W0675,Valve Repair,1/15/2026,Medium,Assigned,
+WO0501,W0302,Quality Complaint,2/7/2025,Low,Resolved,2/7/2025
+WO0502,W0907,Service Restoration,11/10/2025,High,Assigned,
+WO0503,W0005,Meter Fault,12/23/2025,Medium,Resolved,12/31/2025
+WO0504,W0446,Valve Repair,9/14/2026,High,Resolved,9/15/2026
+WO0505,W0495,Leak Inspection,5/2/2025,Medium,Resolved,5/7/2025
+WO0506,W0932,Illegal Connection Check,2/5/2026,Medium,In Progress,
+WO0507,W0595,Valve Repair,9/27/2026,Medium,Cancelled,
+WO0508,W0186,Illegal Connection Check,7/24/2025,Medium,Resolved,8/5/2025
+WO0509,W0152,No Water,9/17/2026,Low,Resolved,9/21/2026
+WO0510,W0696,Quality Complaint,4/22/2025,Low,In Progress,
+WO0511,W0217,Leak Inspection,12/1/2025,High,Resolved,12/10/2025
+WO0512,W0637,Low Pressure,8/27/2026,Medium,In Progress,
+WO0513,W0194,Service Restoration,1/31/2025,Medium,Resolved,2/5/2025
+WO0514,W0746,Service Restoration,4/12/2026,High,In Progress,
+WO0515,W0785,Service Restoration,2/4/2025,Medium,Open,
+WO0516,W0237,Meter Fault,1/6/2026,Low,Open,
+WO0517,W0079,Leak Inspection,3/19/2025,Medium,Assigned,
+WO0518,W0679,Quality Complaint,8/8/2026,High,Resolved,8/16/2026
+WO0519,W0844,No Water,7/6/2026,Medium,Resolved,7/9/2026
+WO0520,W0867,Service Restoration,4/2/2026,Low,Resolved,4/6/2026
+WO0521,W0045,No Water,2/24/2025,High,Resolved,3/1/2025
+WO0522,W0738,No Water,11/27/2025,Medium,Resolved,12/3/2025
+WO0523,W0446,Low Pressure,6/13/2026,Low,In Progress,
+WO0524,W0088,Service Restoration,4/5/2026,Medium,In Progress,
+WO0525,W0270,Leak Inspection,2/19/2025,Low,Resolved,2/27/2025
+WO0526,W0629,Quality Complaint,2/16/2026,Low,In Progress,
+WO0527,W0203,Low Pressure,1/30/2025,Low,In Progress,
+WO0528,W0839,Service Restoration,2/8/2026,Medium,Assigned,
+WO0529,W0473,Leak Inspection,5/19/2025,Medium,Resolved,5/22/2025
+WO0530,W0398,Leak Inspection,3/5/2025,Medium,Resolved,3/11/2025
+WO0531,W0944,Low Pressure,4/13/2025,High,Resolved,4/24/2025
+WO0532,W0018,Illegal Connection Check,10/6/2025,Low,Open,
+WO0533,W0184,Low Pressure,11/24/2025,High,Resolved,12/4/2025
+WO0534,W0122,Meter Fault,4/27/2026,Medium,Resolved,5/2/2026
+WO0535,W0656,Illegal Connection Check,9/26/2026,Low,In Progress,
+WO0536,W0987,No Water,7/20/2025,Low,In Progress,
+WO0537,W0009,Quality Complaint,4/24/2025,Medium,Resolved,4/27/2025
+WO0538,W0591,Leak Inspection,2/10/2025,Low,In Progress,
+WO0539,W0913,No Water,9/16/2025,Low,Resolved,9/21/2025
+WO0540,W0010,Quality Complaint,5/20/2025,Low,Open,
+WO0541,W0452,Valve Repair,12/28/2025,Low,Assigned,
+WO0542,W0976,No Water,7/26/2026,Medium,Resolved,7/31/2026
+WO0543,W0339,No Water,4/20/2025,Medium,Resolved,4/26/2025
+WO0544,W0277,Illegal Connection Check,7/6/2026,Low,Resolved,7/11/2026
+WO0545,W0777,No Water,9/9/2025,High,Open,
+WO0546,W0844,Illegal Connection Check,11/24/2025,Medium,Assigned,
+WO0547,W0645,Low Pressure,3/10/2025,Medium,Resolved,3/12/2025
+WO0548,W0007,No Water,1/26/2026,Medium,Resolved,1/31/2026
+WO0549,W0621,Quality Complaint,7/29/2026,Medium,In Progress,
+WO0550,W0232,Valve Repair,6/27/2026,Medium,Resolved,7/7/2026
+WO0551,W0211,Quality Complaint,4/25/2025,Low,In Progress,
+WO0552,W0930,Quality Complaint,2/18/2025,Low,Resolved,2/18/2025
+WO0553,W0918,No Water,9/6/2026,Medium,Assigned,
+WO0554,W0823,Quality Complaint,11/1/2025,Low,Assigned,
+WO0555,W0878,Meter Fault,10/14/2026,Low,Cancelled,
+WO0556,W0558,Quality Complaint,8/24/2026,Medium,Resolved,8/30/2026
+WO0557,W0881,Low Pressure,3/31/2025,Medium,Resolved,4/12/2025
+WO0558,W0680,Low Pressure,2/12/2026,Medium,Resolved,2/16/2026
+WO0559,W0599,Leak Inspection,2/4/2026,High,Assigned,
+WO0560,W0556,Leak Inspection,8/10/2025,Low,Resolved,8/15/2025
+WO0561,W0771,Leak Inspection,3/17/2026,Low,Assigned,
+WO0562,W0339,Leak Inspection,4/1/2026,High,In Progress,
+WO0563,W0571,Service Restoration,1/9/2025,Medium,Resolved,1/11/2025
+WO0564,W0219,Service Restoration,10/12/2025,Low,Open,
+WO0565,W0489,Valve Repair,11/14/2025,Low,Resolved,11/22/2025
+WO0566,W0826,Valve Repair,2/18/2025,Medium,Resolved,2/19/2025
+WO0567,W0985,Quality Complaint,7/28/2025,Low,In Progress,
+WO0568,W0130,Valve Repair,9/14/2025,Medium,Resolved,9/16/2025
+WO0569,W0944,No Water,8/6/2026,High,In Progress,
+WO0570,W0307,Valve Repair,7/5/2026,Medium,Cancelled,
+WO0571,W0912,Quality Complaint,4/29/2025,Medium,Open,
+WO0572,W0123,Leak Inspection,9/22/2026,Medium,Open,
+WO0573,W0132,Leak Inspection,7/7/2026,Emergency,Resolved,7/7/2026
+WO0574,W0703,Quality Complaint,5/12/2025,Medium,Resolved,5/19/2025
+WO0575,W0292,Low Pressure,3/29/2025,High,Open,
+WO0576,W0905,Valve Repair,3/20/2025,High,Resolved,3/21/2025
+WO0577,W0304,No Water,9/21/2025,Low,Open,
+WO0578,W0910,Valve Repair,8/17/2025,High,In Progress,
+WO0579,W0054,Valve Repair,9/22/2025,Medium,Cancelled,
+WO0580,W0230,Leak Inspection,1/13/2025,High,In Progress,
+WO0581,W0077,Service Restoration,4/19/2025,Medium,Resolved,4/30/2025
+WO0582,W0702,Leak Inspection,1/20/2025,High,Assigned,
+WO0583,W0726,Valve Repair,11/22/2025,Low,Resolved,11/24/2025
+WO0584,W0789,No Water,4/13/2025,Low,Assigned,
+WO0585,W0773,Leak Inspection,5/15/2026,Low,Resolved,5/24/2026
+WO0586,W0608,No Water,3/6/2025,Medium,In Progress,
+WO0587,W0182,Meter Fault,4/24/2026,Medium,Resolved,4/24/2026
+WO0588,W0954,Leak Inspection,5/26/2025,Emergency,Resolved,6/2/2025
+WO0589,W0056,Quality Complaint,3/16/2026,Medium,Assigned,
+WO0590,W0880,Low Pressure,11/22/2025,Medium,Resolved,12/2/2025
+WO0591,W0415,Illegal Connection Check,5/21/2026,Low,Resolved,5/26/2026
+WO0592,W0908,Service Restoration,6/24/2025,High,Resolved,6/25/2025
+WO0593,W0066,Valve Repair,7/26/2026,High,In Progress,
+WO0594,W0083,Meter Fault,9/26/2025,High,In Progress,
+WO0595,W0067,Leak Inspection,9/7/2025,Low,In Progress,
+WO0596,W0015,Meter Fault,10/30/2026,High,Resolved,11/11/2026
+WO0597,W0329,Low Pressure,11/14/2025,Medium,Resolved,11/16/2025
+WO0598,W0613,Service Restoration,1/5/2026,Low,In Progress,
+WO0599,W0021,Illegal Connection Check,6/4/2026,Low,Open,
+WO0600,W0032,No Water,4/2/2026,Emergency,Resolved,4/7/2026
+WO0601,W0174,Low Pressure,7/19/2025,Medium,Assigned,
+WO0602,W0848,Meter Fault,5/16/2025,High,Cancelled,
+WO0603,W0921,Leak Inspection,2/15/2025,Medium,In Progress,
+WO0604,W0669,Illegal Connection Check,4/17/2026,Medium,Resolved,4/18/2026
+WO0605,W0375,Quality Complaint,8/17/2026,Low,Resolved,8/29/2026
+WO0606,W0624,No Water,2/18/2026,Low,In Progress,
+WO0607,W0500,Service Restoration,12/27/2025,Low,Resolved,1/2/2026
+WO0608,W0733,Valve Repair,7/12/2025,Medium,Resolved,7/23/2025
+WO0609,W0219,No Water,5/9/2025,High,In Progress,
+WO0610,W0924,Valve Repair,2/8/2025,Low,Resolved,2/8/2025
+WO0611,W0131,Meter Fault,10/9/2026,Low,Resolved,10/16/2026
+WO0612,W0378,Service Restoration,12/9/2025,Low,Resolved,12/12/2025
+WO0613,W0571,Meter Fault,4/12/2025,Low,Resolved,4/22/2025
+WO0614,W0099,Illegal Connection Check,9/4/2026,Low,Assigned,
+WO0615,W0261,Service Restoration,5/2/2026,High,Resolved,5/11/2026
+WO0616,W0690,Service Restoration,2/14/2026,Medium,Open,
+WO0617,W0679,Meter Fault,9/9/2026,High,In Progress,
+WO0618,W0013,Service Restoration,10/13/2025,Medium,Resolved,10/21/2025
+WO0619,W0252,Service Restoration,6/2/2025,Low,Assigned,
+WO0620,W0503,Leak Inspection,4/25/2025,Medium,In Progress,
+WO0621,W0705,Low Pressure,5/16/2025,Medium,Resolved,5/16/2025
+WO0622,W0161,Low Pressure,4/6/2025,High,Assigned,
+WO0623,W0257,No Water,5/24/2025,Medium,In Progress,
+WO0624,W0865,Service Restoration,1/25/2025,Medium,Resolved,1/30/2025
+WO0625,W0633,Service Restoration,8/17/2026,Medium,Resolved,8/27/2026
+WO0626,W0631,Leak Inspection,9/2/2025,High,In Progress,
+WO0627,W0576,No Water,10/9/2025,Medium,Resolved,10/20/2025
+WO0628,W0584,Service Restoration,9/25/2025,Medium,Resolved,9/26/2025
+WO0629,W0205,Leak Inspection,4/19/2026,Low,Open,
+WO0630,W0492,Service Restoration,5/13/2026,Low,Resolved,5/25/2026
+WO0631,W0413,Meter Fault,2/4/2025,Low,Open,
+WO0632,W0227,Illegal Connection Check,7/9/2025,Medium,In Progress,
+WO0633,W0416,Service Restoration,1/18/2025,High,Assigned,
+WO0634,W0209,Valve Repair,10/8/2025,Medium,Resolved,10/8/2025
+WO0635,W0071,Illegal Connection Check,8/29/2026,Medium,Resolved,9/8/2026
+WO0636,W0685,Meter Fault,1/27/2025,Medium,In Progress,
+WO0637,W0457,Low Pressure,10/8/2026,Low,Resolved,10/8/2026
+WO0638,W0750,Service Restoration,9/19/2026,Medium,Open,
+WO0639,W0795,Low Pressure,12/20/2025,Low,In Progress,
+WO0640,W0142,Quality Complaint,9/27/2026,High,Cancelled,
+WO0641,W0942,Low Pressure,3/31/2026,Emergency,In Progress,
+WO0642,W0566,Valve Repair,7/9/2025,Low,Open,
+WO0643,W0079,Meter Fault,10/21/2025,Medium,In Progress,
+WO0644,W0043,Service Restoration,6/11/2026,Low,In Progress,
+WO0645,W0611,Quality Complaint,1/9/2025,Low,In Progress,
+WO0646,W0235,No Water,7/11/2025,Medium,In Progress,
+WO0647,W0664,Service Restoration,3/22/2025,Medium,Open,
+WO0648,W0953,Service Restoration,10/28/2025,Low,Open,
+WO0649,W0284,Illegal Connection Check,3/26/2025,Medium,Resolved,3/27/2025
+WO0650,W0636,Illegal Connection Check,8/26/2025,High,Resolved,9/1/2025
+WO0651,W0298,Illegal Connection Check,7/15/2025,Low,Resolved,7/25/2025
+WO0652,W0244,Valve Repair,1/30/2025,Medium,Assigned,
+WO0653,W0388,Service Restoration,4/26/2026,Low,Resolved,5/4/2026
+WO0654,W0533,Service Restoration,9/22/2026,High,Resolved,9/24/2026
+WO0655,W0859,Meter Fault,2/23/2025,Medium,Resolved,2/25/2025
+WO0656,W0490,Low Pressure,3/21/2026,High,Open,
+WO0657,W0556,Service Restoration,1/15/2026,Medium,Resolved,1/17/2026
+WO0658,W0889,Leak Inspection,1/30/2025,Medium,Resolved,2/3/2025
+WO0659,W0782,No Water,7/14/2026,Low,Resolved,7/20/2026
+WO0660,W0222,Quality Complaint,12/1/2025,Medium,Cancelled,
+WO0661,W0252,Valve Repair,3/3/2026,Medium,Resolved,3/14/2026
+WO0662,W0080,Meter Fault,4/5/2026,Medium,In Progress,
+WO0663,W0310,No Water,3/7/2025,Low,Open,
+WO0664,W0714,Quality Complaint,6/27/2026,Low,Resolved,7/4/2026
+WO0665,W0204,Service Restoration,1/23/2025,Low,Resolved,1/24/2025
+WO0666,W0003,Quality Complaint,2/6/2025,High,Open,
+WO0667,W0604,Illegal Connection Check,8/26/2026,Low,Open,
+WO0668,W0872,Low Pressure,1/19/2026,Medium,Assigned,
+WO0669,W0632,Leak Inspection,8/4/2026,Low,Open,
+WO0670,W0566,Quality Complaint,5/18/2025,Medium,Assigned,
+WO0671,W0157,No Water,11/15/2025,Emergency,In Progress,
+WO0672,W0447,Valve Repair,7/25/2026,Medium,Resolved,7/27/2026
+WO0673,W0580,Illegal Connection Check,7/29/2026,Medium,Open,
+WO0674,W0512,Service Restoration,10/6/2026,Medium,Assigned,
+WO0675,W0264,Valve Repair,9/17/2026,Medium,Resolved,9/22/2026
+WO0676,W0373,Quality Complaint,7/24/2026,Low,Resolved,7/25/2026
+WO0677,W0108,Quality Complaint,4/3/2026,High,Open,
+WO0678,W0431,Low Pressure,12/2/2025,Emergency,Assigned,
+WO0679,W0058,Leak Inspection,7/12/2026,Medium,In Progress,
+WO0680,W0657,No Water,6/24/2025,Low,Resolved,7/5/2025
+WO0681,W0430,Meter Fault,4/30/2025,Medium,Resolved,5/12/2025
+WO0682,W0206,Illegal Connection Check,10/17/2025,Medium,Resolved,10/20/2025
+WO0683,W0270,Illegal Connection Check,4/23/2025,Low,Assigned,
+WO0684,W0836,No Water,7/11/2025,Medium,Resolved,7/17/2025
+WO0685,W0128,Valve Repair,10/29/2026,High,Resolved,11/3/2026
+WO0686,W0392,Low Pressure,1/21/2025,Medium,Resolved,1/25/2025
+WO0687,W0124,Meter Fault,7/3/2026,Medium,Resolved,7/10/2026
+WO0688,W0682,Low Pressure,11/19/2025,Medium,Resolved,12/1/2025
+WO0689,W0093,No Water,10/31/2026,Low,In Progress,
+WO0690,W0901,Leak Inspection,1/5/2025,High,In Progress,
+WO0691,W0783,Low Pressure,4/1/2025,High,Assigned,
+WO0692,W0554,No Water,3/26/2026,Low,In Progress,
+WO0693,W0449,Low Pressure,5/5/2026,High,Assigned,
+WO0694,W0509,No Water,8/15/2025,Medium,Open,
+WO0695,W0348,Low Pressure,10/30/2025,Low,Resolved,11/5/2025
+WO0696,W0410,No Water,10/16/2026,Low,Open,
+WO0697,W0465,No Water,4/10/2026,Medium,Resolved,4/14/2026
+WO0698,W0247,Meter Fault,7/27/2025,Medium,Resolved,7/27/2025
+WO0699,W0969,No Water,11/12/2026,Medium,In Progress,
+WO0700,W0291,Leak Inspection,11/8/2026,Medium,Resolved,11/12/2026
+WO0701,W0776,No Water,4/14/2026,High,Resolved,4/18/2026
+WO0702,W0056,Service Restoration,7/23/2026,Emergency,Resolved,7/26/2026
+WO0703,W0413,Low Pressure,5/17/2025,Medium,Open,
+WO0704,W0278,Illegal Connection Check,5/29/2026,Medium,In Progress,
+WO0705,W0513,No Water,6/13/2025,High,In Progress,
+WO0706,W0782,Illegal Connection Check,1/19/2025,Medium,Cancelled,
+WO0707,W0895,Meter Fault,11/17/2025,Medium,Resolved,11/17/2025
+WO0708,W0414,Low Pressure,3/15/2026,Low,Open,
+WO0709,W0203,Illegal Connection Check,10/5/2026,High,Resolved,10/17/2026
+WO0710,W0594,Illegal Connection Check,6/16/2025,Low,In Progress,
+WO0711,W0022,Meter Fault,8/6/2025,Medium,Assigned,
+WO0712,W0403,Leak Inspection,1/14/2025,Low,Resolved,1/24/2025
+WO0713,W0034,Meter Fault,7/26/2026,Low,Assigned,
+WO0714,W0723,Meter Fault,7/22/2026,High,Resolved,7/24/2026
+WO0715,W0852,Low Pressure,3/27/2025,Medium,Resolved,3/30/2025
+WO0716,W0246,Quality Complaint,2/9/2026,Emergency,In Progress,
+WO0717,W0365,Valve Repair,10/1/2026,Medium,In Progress,
+WO0718,W0578,Valve Repair,10/9/2025,Medium,Resolved,10/10/2025
+WO0719,W0149,Low Pressure,3/12/2026,Medium,Cancelled,
+WO0720,W0149,Service Restoration,2/19/2026,High,Resolved,2/26/2026
+WO0721,W0088,Illegal Connection Check,7/3/2026,Medium,In Progress,
+WO0722,W0209,Low Pressure,9/25/2026,Low,Assigned,
+WO0723,W0530,Service Restoration,1/18/2025,Medium,Resolved,1/23/2025
+WO0724,W0155,Illegal Connection Check,11/9/2025,High,Open,
+WO0725,W0481,Valve Repair,3/23/2026,Medium,In Progress,
+WO0726,W0747,Leak Inspection,3/15/2026,Medium,Resolved,3/26/2026
+WO0727,W0241,Service Restoration,1/5/2026,High,Resolved,1/11/2026
+WO0728,W0494,Low Pressure,12/10/2025,Low,Assigned,
+WO0729,W0562,Quality Complaint,2/4/2026,High,Resolved,2/8/2026
+WO0730,W0109,Leak Inspection,1/29/2025,High,Resolved,1/29/2025
+WO0731,W0020,Low Pressure,8/3/2026,Medium,Resolved,8/15/2026
+WO0732,W0120,Meter Fault,4/21/2025,Medium,Open,
+WO0733,W0532,Meter Fault,6/9/2025,Medium,Resolved,6/21/2025
+WO0734,W0844,Leak Inspection,6/22/2026,Medium,In Progress,
+WO0735,W0336,No Water,2/23/2026,Low,Open,
+WO0736,W0694,Quality Complaint,12/7/2025,Medium,Resolved,12/10/2025
+WO0737,W0903,Low Pressure,2/24/2026,Medium,Cancelled,
+WO0738,W0281,Illegal Connection Check,4/11/2025,Low,In Progress,
+WO0739,W0674,Low Pressure,6/12/2025,Medium,Resolved,6/12/2025
+WO0740,W0009,Quality Complaint,8/7/2025,Medium,Resolved,8/14/2025
+WO0741,W0458,Quality Complaint,1/21/2026,High,Resolved,1/27/2026
+WO0742,W0223,Leak Inspection,12/18/2025,Medium,Resolved,12/18/2025
+WO0743,W0929,Service Restoration,8/17/2025,Medium,Resolved,8/17/2025
+WO0744,W0120,Meter Fault,5/23/2026,High,Resolved,5/31/2026
+WO0745,W0402,Quality Complaint,5/14/2025,High,Resolved,5/22/2025
+WO0746,W0160,Quality Complaint,3/25/2025,Medium,Assigned,
+WO0747,W0025,Quality Complaint,4/16/2025,Medium,Resolved,4/27/2025
+WO0748,W0009,No Water,8/28/2025,High,Resolved,9/3/2025
+WO0749,W0876,Low Pressure,3/29/2025,Medium,Assigned,
+WO0750,W0107,Quality Complaint,11/11/2025,Medium,Resolved,11/11/2025
+WO0751,W0184,Leak Inspection,10/28/2025,High,Resolved,10/28/2025
+WO0752,W0768,Low Pressure,9/16/2025,Low,In Progress,
+WO0753,W0188,Meter Fault,6/27/2026,Emergency,Assigned,
+WO0754,W0188,Low Pressure,5/4/2025,Medium,Resolved,5/7/2025
+WO0755,W0174,Leak Inspection,10/14/2026,Medium,Resolved,10/15/2026
+WO0756,W0558,Meter Fault,1/18/2025,High,Resolved,1/28/2025
+WO0757,W0356,Illegal Connection Check,12/24/2025,Low,Resolved,1/3/2026
+WO0758,W0534,Leak Inspection,2/25/2026,High,In Progress,
+WO0759,W0840,No Water,9/10/2025,Medium,Assigned,
+WO0760,W0832,Meter Fault,9/10/2026,High,Resolved,9/22/2026
+WO0761,W0109,Illegal Connection Check,3/22/2025,Low,In Progress,
+WO0762,W0511,Meter Fault,5/24/2026,Medium,Resolved,6/3/2026
+WO0763,W0901,Valve Repair,2/25/2026,High,Assigned,
+WO0764,W0021,Valve Repair,12/24/2025,Medium,Resolved,1/4/2026
+WO0765,W0255,Quality Complaint,10/29/2025,Medium,Resolved,11/10/2025
+WO0766,W0999,No Water,7/27/2025,Medium,Assigned,
+WO0767,W0379,No Water,3/3/2025,Medium,Cancelled,
+WO0768,W0586,Service Restoration,9/10/2026,Emergency,In Progress,
+WO0769,W0955,Valve Repair,5/13/2025,Medium,Open,
+WO0770,W0245,Illegal Connection Check,11/24/2025,Medium,Resolved,11/29/2025
+WO0771,W0309,Low Pressure,3/28/2026,High,Resolved,4/9/2026
+WO0772,W0414,Service Restoration,10/5/2026,Medium,Resolved,10/8/2026
+WO0773,W0958,Leak Inspection,1/19/2026,High,Cancelled,
+WO0774,W0202,Illegal Connection Check,4/3/2025,Low,Open,
+WO0775,W0837,No Water,4/10/2025,Medium,Assigned,
+WO0776,W0191,Valve Repair,8/16/2025,High,Resolved,8/22/2025
+WO0777,W0253,Low Pressure,4/19/2026,Medium,Resolved,4/30/2026
+WO0778,W0371,Valve Repair,7/12/2025,Medium,In Progress,
+WO0779,W0523,Leak Inspection,9/5/2026,High,Open,
+WO0780,W0788,Quality Complaint,11/4/2026,Low,Open,
+WO0781,W0780,Service Restoration,8/21/2025,Medium,Resolved,8/30/2025
+WO0782,W0342,Leak Inspection,9/11/2026,Medium,In Progress,
+WO0783,W0085,No Water,12/23/2025,Medium,In Progress,
+WO0784,W0176,Meter Fault,4/28/2026,Low,Resolved,5/8/2026
+WO0785,W0770,Illegal Connection Check,6/19/2025,Medium,Resolved,6/28/2025
+WO0786,W0894,Quality Complaint,3/23/2026,Low,Resolved,3/28/2026
+WO0787,W0794,Valve Repair,2/25/2026,High,Resolved,3/9/2026
+WO0788,W0866,Illegal Connection Check,8/17/2025,Medium,In Progress,
+WO0789,W0780,No Water,5/11/2026,Medium,Resolved,5/17/2026
+WO0790,W0688,Service Restoration,11/1/2025,Medium,Resolved,11/9/2025
+WO0791,W0408,Service Restoration,11/11/2026,Medium,Open,
+WO0792,W0580,Service Restoration,7/27/2026,High,Cancelled,
+WO0793,W0157,Service Restoration,7/19/2025,Low,Assigned,
+WO0794,W0415,Leak Inspection,3/29/2026,Medium,Resolved,4/9/2026
+WO0795,W0846,No Water,1/29/2025,High,In Progress,
+WO0796,W0098,Valve Repair,2/26/2026,Medium,Open,
+WO0797,W0624,No Water,7/7/2025,High,Resolved,7/18/2025
+WO0798,W0013,Leak Inspection,9/26/2025,Medium,Resolved,10/5/2025
+WO0799,W0994,Meter Fault,9/27/2025,High,Resolved,10/9/2025
+WO0800,W0199,No Water,2/28/2026,Medium,Assigned,
+WO0801,W0392,Meter Fault,3/8/2026,Medium,Open,
+WO0802,W0579,Valve Repair,3/15/2026,Medium,Resolved,3/16/2026
+WO0803,W0887,Service Restoration,9/1/2026,High,Resolved,9/5/2026
+WO0804,W0699,Low Pressure,7/17/2025,Low,Resolved,7/25/2025
+WO0805,W0227,Illegal Connection Check,11/24/2025,Medium,Resolved,12/4/2025
+WO0806,W0788,Service Restoration,10/23/2026,Low,In Progress,
+WO0807,W0376,Illegal Connection Check,2/16/2026,Medium,Resolved,2/27/2026
+WO0808,W0988,Low Pressure,6/22/2026,Medium,In Progress,
+WO0809,W0289,Meter Fault,12/3/2025,Low,Resolved,12/7/2025
+WO0810,W0762,No Water,1/4/2026,Medium,Resolved,1/7/2026
+WO0811,W0827,Quality Complaint,4/21/2026,Medium,Assigned,
+WO0812,W0422,Quality Complaint,9/13/2025,Medium,In Progress,
+WO0813,W0877,Illegal Connection Check,8/20/2025,Low,Assigned,
+WO0814,W0603,Leak Inspection,11/20/2025,Low,Resolved,11/25/2025
+WO0815,W0777,No Water,8/20/2026,Medium,Resolved,8/28/2026
+WO0816,W0238,Valve Repair,7/19/2025,Medium,Resolved,7/25/2025
+WO0817,W0902,Meter Fault,2/6/2026,Low,Resolved,2/15/2026
+WO0818,W0084,Quality Complaint,7/27/2026,Medium,Open,
+WO0819,W0219,Leak Inspection,10/31/2026,Medium,Resolved,10/31/2026
+WO0820,W0553,Illegal Connection Check,4/14/2026,Medium,Resolved,4/26/2026
+WO0821,W0343,Low Pressure,2/22/2026,High,Resolved,2/24/2026
+WO0822,W0056,Service Restoration,7/24/2026,Medium,In Progress,
+WO0823,W0999,Valve Repair,4/19/2025,Medium,Assigned,
+WO0824,W0081,Meter Fault,10/10/2026,Medium,Resolved,10/13/2026
+WO0825,W0127,Quality Complaint,11/10/2025,Medium,In Progress,
+WO0826,W0415,Quality Complaint,7/26/2025,Low,Assigned,
+WO0827,W0713,Illegal Connection Check,10/11/2025,Medium,Resolved,10/21/2025
+WO0828,W0929,Service Restoration,6/29/2025,Low,Assigned,
+WO0829,W0516,Quality Complaint,4/4/2026,Medium,In Progress,
+WO0830,W0581,Quality Complaint,1/12/2026,High,Resolved,1/21/2026
+WO0831,W0997,Meter Fault,10/6/2025,Medium,Assigned,
+WO0832,W0395,Valve Repair,9/9/2026,High,Assigned,
+WO0833,W0230,Valve Repair,10/7/2025,Low,Resolved,10/10/2025
+WO0834,W0233,Valve Repair,7/20/2026,Medium,In Progress,
+WO0835,W0729,Leak Inspection,9/4/2026,Medium,Cancelled,
+WO0836,W0992,Service Restoration,2/20/2025,Medium,Assigned,
+WO0837,W0744,Valve Repair,9/24/2026,Medium,Resolved,9/30/2026
+WO0838,W0699,No Water,8/30/2026,Medium,Assigned,
+WO0839,W0854,Quality Complaint,1/9/2025,Low,In Progress,
+WO0840,W0068,No Water,4/4/2026,Medium,Assigned,
+WO0841,W0253,Leak Inspection,4/1/2025,Medium,Resolved,4/5/2025
+WO0842,W0203,Illegal Connection Check,5/20/2026,Medium,Assigned,
+WO0843,W0023,Leak Inspection,2/8/2026,High,Resolved,2/18/2026
+WO0844,W0418,Illegal Connection Check,7/3/2026,Low,Open,
+WO0845,W0922,Service Restoration,1/13/2026,Medium,Resolved,1/20/2026
+WO0846,W0015,Leak Inspection,11/21/2025,Low,Cancelled,
+WO0847,W0888,Meter Fault,4/1/2025,High,Resolved,4/8/2025
+WO0848,W0035,Quality Complaint,3/4/2025,Medium,Assigned,
+WO0849,W0609,Low Pressure,8/4/2025,Low,Resolved,8/13/2025
+WO0850,W0006,Illegal Connection Check,10/7/2026,Medium,In Progress,
+WO0851,W0122,Service Restoration,3/15/2026,High,In Progress,
+WO0852,W0956,No Water,7/30/2025,Low,In Progress,
+WO0853,W0690,Service Restoration,11/8/2025,High,Resolved,11/8/2025
+WO0854,W0286,Low Pressure,12/19/2025,Low,In Progress,
+WO0855,W0024,Meter Fault,9/15/2025,Low,In Progress,
+WO0856,W0664,Service Restoration,6/14/2025,Medium,Cancelled,
+WO0857,W0019,Valve Repair,7/7/2026,High,Resolved,7/18/2026
+WO0858,W0921,Meter Fault,5/30/2026,Low,In Progress,
+WO0859,W0652,No Water,9/15/2026,Medium,In Progress,
+WO0860,W0785,Leak Inspection,10/6/2025,High,In Progress,
+WO0861,W0571,Service Restoration,8/10/2026,Low,Resolved,8/17/2026
+WO0862,W0703,Quality Complaint,8/4/2025,Low,Resolved,8/12/2025
+WO0863,W0387,Meter Fault,10/26/2025,Low,Resolved,11/1/2025
+WO0864,W0312,Leak Inspection,12/8/2025,Medium,In Progress,
+WO0865,W0976,Valve Repair,7/26/2025,Low,Assigned,
+WO0866,W0471,Valve Repair,8/21/2025,Medium,In Progress,
+WO0867,W0258,Meter Fault,3/14/2025,Medium,Open,
+WO0868,W0385,Low Pressure,10/2/2025,High,Cancelled,
+WO0869,W0748,Service Restoration,1/13/2025,Medium,Resolved,1/17/2025
+WO0870,W0159,Valve Repair,12/24/2025,Medium,Resolved,12/27/2025
+WO0871,W0502,Low Pressure,3/26/2026,Low,Open,
+WO0872,W0046,Leak Inspection,2/18/2025,Medium,In Progress,
+WO0873,W0101,Quality Complaint,6/21/2026,Low,Resolved,6/26/2026
+WO0874,W0711,No Water,8/3/2026,Medium,Resolved,8/12/2026
+WO0875,W0546,Quality Complaint,3/3/2025,Medium,Assigned,
+WO0876,W0132,Low Pressure,8/27/2026,Low,In Progress,
+WO0877,W0116,Leak Inspection,5/30/2025,Medium,Resolved,5/31/2025
+WO0878,W0051,Illegal Connection Check,3/6/2025,Medium,In Progress,
+WO0879,W0991,Leak Inspection,4/6/2025,Low,Open,
+WO0880,W0312,Service Restoration,8/20/2026,Low,Resolved,8/20/2026
+WO0881,W0621,Quality Complaint,2/7/2026,Low,Resolved,2/17/2026
+WO0882,W0694,Service Restoration,9/23/2025,Medium,Cancelled,
+WO0883,W0014,No Water,1/14/2026,Medium,Open,
+WO0884,W0038,Valve Repair,2/19/2026,Low,Resolved,2/27/2026
+WO0885,W0213,Leak Inspection,5/24/2025,Medium,In Progress,
+WO0886,W0119,Illegal Connection Check,6/12/2025,Low,Resolved,6/18/2025
+WO0887,W0821,Service Restoration,6/23/2025,High,In Progress,
+WO0888,W0567,Low Pressure,4/15/2026,Medium,In Progress,
+WO0889,W0627,Low Pressure,1/17/2025,Medium,Resolved,1/28/2025
+WO0890,W0342,Service Restoration,1/9/2026,Medium,Open,
+WO0891,W0848,Illegal Connection Check,4/13/2026,High,Resolved,4/22/2026
+WO0892,W0755,Illegal Connection Check,12/26/2025,Low,Resolved,1/1/2026
+WO0893,W0484,Meter Fault,6/29/2025,Medium,Resolved,7/5/2025
+WO0894,W0394,Valve Repair,8/18/2025,Medium,Resolved,8/29/2025
+WO0895,W0026,Illegal Connection Check,7/12/2025,Medium,Assigned,
+WO0896,W0114,Service Restoration,8/28/2025,Low,In Progress,
+WO0897,W0803,Service Restoration,6/1/2026,High,Resolved,6/5/2026
+WO0898,W0038,No Water,11/5/2025,Emergency,Resolved,11/10/2025
+WO0899,W0178,Meter Fault,2/7/2025,Low,Resolved,2/12/2025
+WO0900,W0745,Meter Fault,5/28/2025,High,Resolved,6/4/2025
+WO0901,W0341,Valve Repair,10/14/2026,Emergency,In Progress,
+WO0902,W0265,Meter Fault,5/26/2026,Medium,Resolved,6/2/2026
+WO0903,W0385,Low Pressure,7/1/2026,Medium,Resolved,7/5/2026
+WO0904,W0530,Quality Complaint,9/9/2025,Medium,Assigned,
+WO0905,W0958,No Water,3/5/2025,Medium,In Progress,
+WO0906,W0226,Leak Inspection,10/28/2025,High,Resolved,11/1/2025
+WO0907,W0700,Quality Complaint,7/18/2025,Medium,Resolved,7/28/2025
+WO0908,W0388,Valve Repair,2/2/2026,Emergency,Resolved,2/14/2026
+WO0909,W0855,Valve Repair,10/5/2025,High,Resolved,10/15/2025
+WO0910,W0562,Leak Inspection,6/10/2025,Medium,In Progress,
+WO0911,W0786,Low Pressure,5/12/2025,Low,In Progress,
+WO0912,W0576,Leak Inspection,7/16/2025,High,Resolved,7/24/2025
+WO0913,W0770,Service Restoration,2/4/2025,High,Assigned,
+WO0914,W0316,Service Restoration,10/1/2025,Medium,Resolved,10/10/2025
+WO0915,W0126,Leak Inspection,4/20/2025,Medium,In Progress,
+WO0916,W0353,Meter Fault,10/11/2026,High,Resolved,10/20/2026
+WO0917,W0484,Valve Repair,6/12/2026,Medium,Assigned,
+WO0918,W0823,Low Pressure,2/8/2025,Medium,Assigned,
+WO0919,W0230,Service Restoration,10/24/2026,Medium,Assigned,
+WO0920,W0780,Quality Complaint,7/24/2026,Medium,Open,
+WO0921,W0120,Service Restoration,4/21/2025,Emergency,Resolved,5/3/2025
+WO0922,W0829,Low Pressure,6/5/2025,Low,Resolved,6/11/2025
+WO0923,W0841,Service Restoration,7/29/2026,Emergency,Resolved,8/3/2026
+WO0924,W0040,Leak Inspection,7/27/2026,High,Resolved,8/4/2026
+WO0925,W0059,Service Restoration,2/26/2026,Medium,Open,
+WO0926,W0318,Meter Fault,10/23/2026,Low,Resolved,11/1/2026
+WO0927,W0782,Illegal Connection Check,8/28/2025,Low,Resolved,9/1/2025
+WO0928,W0557,Quality Complaint,1/13/2026,Emergency,Cancelled,
+WO0929,W0790,Service Restoration,8/7/2026,Emergency,Resolved,8/17/2026
+WO0930,W0936,No Water,10/2/2026,High,Resolved,10/6/2026
+WO0931,W0622,Low Pressure,9/13/2025,Medium,Cancelled,
+WO0932,W0047,Service Restoration,11/10/2026,Low,Assigned,
+WO0933,W0533,Quality Complaint,10/7/2025,Low,Resolved,10/18/2025
+WO0934,W0482,Illegal Connection Check,4/12/2025,Low,Assigned,
+WO0935,W0072,No Water,7/17/2025,Low,Assigned,
+WO0936,W0106,Illegal Connection Check,7/19/2025,Medium,Open,
+WO0937,W0349,Valve Repair,11/16/2025,High,In Progress,
+WO0938,W0896,Quality Complaint,7/19/2025,Medium,In Progress,
+WO0939,W0071,No Water,2/5/2026,Low,Open,
+WO0940,W0392,Illegal Connection Check,7/26/2026,Low,Open,
+WO0941,W0608,Service Restoration,7/27/2026,Medium,Resolved,8/3/2026
+WO0942,W0424,Service Restoration,8/4/2025,High,Resolved,8/13/2025
+WO0943,W0557,Valve Repair,8/5/2025,Medium,Resolved,8/9/2025
+WO0944,W0800,Meter Fault,8/31/2026,Emergency,Resolved,9/8/2026
+WO0945,W0958,Valve Repair,11/4/2025,High,Open,
+WO0946,W0198,Meter Fault,2/21/2025,Medium,Resolved,3/4/2025
+WO0947,W0262,Meter Fault,10/15/2026,Medium,In Progress,
+WO0948,W0475,Leak Inspection,5/31/2025,Medium,Resolved,6/3/2025
+WO0949,W0919,Valve Repair,12/25/2025,High,Assigned,
+WO0950,W0494,Valve Repair,5/25/2026,Medium,Assigned,
+WO0951,W0176,Low Pressure,1/20/2025,High,In Progress,
+WO0952,W0702,Low Pressure,5/9/2026,Low,In Progress,
+WO0953,W0270,Quality Complaint,2/3/2026,High,In Progress,
+WO0954,W0307,Illegal Connection Check,9/1/2026,Medium,Open,
+WO0955,W0085,Service Restoration,12/12/2025,Medium,Resolved,12/15/2025
+WO0956,W0594,Service Restoration,7/2/2025,Low,Resolved,7/13/2025
+WO0957,W0645,Meter Fault,2/14/2026,Low,In Progress,
+WO0958,W0123,Low Pressure,3/27/2026,Medium,Resolved,4/8/2026
+WO0959,W0700,Quality Complaint,2/9/2025,High,Cancelled,
+WO0960,W0179,Service Restoration,11/11/2026,High,Resolved,11/16/2026
+WO0961,W0391,Meter Fault,6/8/2025,Low,Open,
+WO0962,W0019,No Water,6/15/2025,High,Open,
+WO0963,W0803,No Water,3/11/2025,Emergency,Assigned,
+WO0964,W0307,Valve Repair,5/14/2026,High,In Progress,
+WO0965,W0629,Service Restoration,3/31/2026,Low,Assigned,
+WO0966,W0209,Meter Fault,3/11/2026,Medium,Resolved,3/12/2026
+WO0967,W0385,Service Restoration,11/5/2025,Medium,In Progress,
+WO0968,W0876,Valve Repair,5/30/2026,Low,Resolved,5/31/2026
+WO0969,W0394,Low Pressure,10/19/2025,Low,Resolved,10/19/2025
+WO0970,W0192,Quality Complaint,10/16/2025,Medium,Assigned,
+WO0971,W0147,Valve Repair,12/6/2025,High,In Progress,
+WO0972,W0396,Valve Repair,6/1/2025,Medium,Resolved,6/9/2025
+WO0973,W0580,Quality Complaint,7/16/2025,High,Resolved,7/21/2025
+WO0974,W0650,Illegal Connection Check,11/10/2025,Low,Assigned,
+WO0975,W0655,Low Pressure,4/5/2026,Medium,Resolved,4/13/2026
+WO0976,W0772,Quality Complaint,6/2/2025,High,Assigned,
+WO0977,W0384,Leak Inspection,1/2/2026,Medium,In Progress,
+WO0978,W0464,Valve Repair,2/16/2025,Medium,Resolved,2/23/2025
+WO0979,W0872,Leak Inspection,3/7/2026,High,Resolved,3/19/2026
+WO0980,W0284,No Water,2/13/2026,Low,Assigned,
+WO0981,W0594,Leak Inspection,12/13/2025,Medium,Resolved,12/24/2025
+WO0982,W0778,No Water,8/4/2025,Low,Resolved,8/11/2025
+WO0983,W0818,Valve Repair,1/22/2026,Medium,Resolved,2/2/2026
+WO0984,W0345,Illegal Connection Check,6/8/2026,High,In Progress,
+WO0985,W0266,No Water,9/26/2025,Medium,Assigned,
+WO0986,W0856,Leak Inspection,5/18/2026,High,Open,
+WO0987,W0675,Quality Complaint,10/19/2025,High,Resolved,10/30/2025
+WO0988,W0400,Meter Fault,7/25/2026,Low,In Progress,
+WO0989,W0512,No Water,6/7/2026,Low,Resolved,6/8/2026
+WO0990,W0759,No Water,3/2/2025,Medium,Assigned,
+WO0991,W0125,No Water,11/20/2025,Medium,Resolved,11/27/2025
+WO0992,W0114,Quality Complaint,8/6/2026,Low,Assigned,
+WO0993,W0820,Low Pressure,9/26/2025,High,In Progress,
+WO0994,W0513,Quality Complaint,12/28/2025,High,In Progress,
+WO0995,W0416,Valve Repair,10/25/2025,Medium,In Progress,
+WO0996,W0558,Valve Repair,7/30/2025,Low,Resolved,7/31/2025
+WO0997,W0691,Meter Fault,2/7/2026,Emergency,Cancelled,
+WO0998,W0761,Valve Repair,1/21/2026,Medium,Assigned,
+WO0999,W0164,Meter Fault,6/17/2026,Medium,Open,
+WO1000,W0922,Service Restoration,2/13/2025,High,Open,

@@ -1,0 +1,1001 @@
+﻿connection_id,customer_id,service_address,connection_type,meter_id,installed_on,connection_status
+W0001,C0001,"145 Willow Lane, Northbank",Shared Meter,MTR-307852,10/26/2011,Active
+W0002,C0002,"65 Station Road, Old Quarter",Fire Line,MTR-604347,1/19/2008,Active
+W0003,C0003,"141 Harbor Way, Riverside",Standard,MTR-186412,9/15/2012,Active
+W0004,C0004,"80 Maple Crescent, Hillview",Fire Line,MTR-169632,4/24/2015,Disconnected
+W0005,C0005,"92 Station Road, Market Ward",Fire Line,MTR-211106,4/22/2020,Active
+W0006,C0006,"21 Cedar Road, Eastfield",High Capacity,MTR-462388,10/5/2010,Active
+W0007,C0007,"117 Harbor Way, Southgate",Standard,MTR-610295,1/17/2015,Active
+W0008,C0008,"59 Mill Street, Westmoor",Standard,MTR-651950,6/22/2024,Active
+W0009,C0009,"220 Garden Row, Lakeside",High Capacity,MTR-794122,7/24/2016,Active
+W0010,C0010,"108 Mill Street, Cedar Park",Shared Meter,MTR-950422,6/26/2019,Active
+W0011,C0011,"28 Harbor Way, Northbank",Fire Line,MTR-399610,5/2/2008,Disconnected
+W0012,C0012,"158 Willow Lane, Old Quarter",Fire Line,MTR-762682,1/29/2018,Active
+W0013,C0013,"88 River Street, Riverside",Shared Meter,MTR-688930,10/1/2023,Under Repair
+W0014,C0014,"227 Garden Row, Hillview",High Capacity,MTR-248864,9/23/2010,Active
+W0015,C0015,"213 Foundry Road, Market Ward",Standard,MTR-921936,11/21/2014,Active
+W0016,C0016,"40 Cedar Road, Eastfield",Shared Meter,MTR-181526,10/16/2010,Active
+W0017,C0017,"193 Mill Street, Southgate",Standard,MTR-457133,11/1/2019,Active
+W0018,C0018,"178 Maple Crescent, Westmoor",Shared Meter,MTR-492414,12/29/2018,Active
+W0019,C0019,"45 Orchard Avenue, Lakeside",Fire Line,MTR-245948,6/9/2015,Under Repair
+W0020,C0020,"220 Station Road, Cedar Park",Standard,MTR-453544,4/29/2011,Active
+W0021,C0021,"171 Foundry Road, Northbank",High Capacity,MTR-749938,11/10/2009,Active
+W0022,C0022,"196 Foundry Road, Old Quarter",High Capacity,MTR-838589,10/9/2020,Active
+W0023,C0023,"41 Station Road, Riverside",Shared Meter,MTR-305913,6/20/2018,Disconnected
+W0024,C0024,"17 Foundry Road, Hillview",High Capacity,MTR-981606,11/27/2016,Active
+W0025,C0025,"220 Willow Lane, Market Ward",Shared Meter,MTR-550928,10/22/2023,Active
+W0026,C0026,"234 Maple Crescent, Eastfield",Shared Meter,MTR-605651,7/3/2020,Active
+W0027,C0027,"221 Mill Street, Southgate",Shared Meter,MTR-716883,7/24/2017,Active
+W0028,C0028,"236 Harbor Way, Westmoor",High Capacity,MTR-554021,2/4/2008,Active
+W0029,C0029,"98 Cedar Road, Lakeside",Standard,MTR-794441,5/11/2017,Active
+W0030,C0030,"131 River Street, Cedar Park",Standard,MTR-117212,6/24/2009,Active
+W0031,C0031,"141 Orchard Avenue, Northbank",Shared Meter,MTR-113827,2/2/2022,Active
+W0032,C0032,"136 Canal Walk, Old Quarter",Shared Meter,MTR-146567,3/28/2025,Active
+W0033,C0033,"50 River Street, Riverside",Standard,MTR-136691,9/24/2013,Active
+W0034,C0034,"211 Garden Row, Hillview",Standard,MTR-256048,6/23/2022,Under Repair
+W0035,C0035,"223 Summit Drive, Market Ward",Standard,MTR-890313,5/24/2008,Active
+W0036,C0036,"125 Harbor Way, Eastfield",Fire Line,MTR-853556,9/8/2015,Active
+W0037,C0037,"123 Garden Row, Southgate",Fire Line,MTR-723875,9/22/2017,Active
+W0038,C0038,"26 Harbor Way, Westmoor",Shared Meter,MTR-572337,10/2/2020,Active
+W0039,C0039,"228 Cedar Road, Lakeside",Shared Meter,MTR-630159,4/30/2023,Active
+W0040,C0040,"189 Foundry Road, Cedar Park",High Capacity,MTR-162998,8/1/2012,Active
+W0041,C0041,"74 Willow Lane, Northbank",Shared Meter,MTR-237733,7/8/2019,Active
+W0042,C0042,"57 Harbor Way, Old Quarter",Shared Meter,MTR-227991,11/12/2014,Active
+W0043,C0043,"203 Cedar Road, Riverside",Shared Meter,MTR-946418,11/4/2019,Active
+W0044,C0044,"3 Harbor Way, Hillview",Shared Meter,MTR-820771,6/28/2010,Active
+W0045,C0045,"3 Orchard Avenue, Market Ward",High Capacity,MTR-689740,4/7/2018,Disconnected
+W0046,C0046,"58 Canal Walk, Eastfield",High Capacity,MTR-598259,12/9/2014,Active
+W0047,C0047,"104 Cedar Road, Southgate",High Capacity,MTR-778239,5/14/2021,Active
+W0048,C0048,"190 Station Road, Westmoor",High Capacity,MTR-254695,7/3/2008,Disconnected
+W0049,C0049,"152 Maple Crescent, Lakeside",High Capacity,MTR-474294,12/18/2022,Active
+W0050,C0050,"191 Garden Row, Cedar Park",High Capacity,MTR-453342,5/9/2009,Active
+W0051,C0051,"25 Canal Walk, Northbank",Standard,MTR-629839,12/1/2014,Active
+W0052,C0052,"169 Station Road, Old Quarter",High Capacity,MTR-428892,5/29/2018,Active
+W0053,C0053,"50 Harbor Way, Riverside",Shared Meter,MTR-276059,10/19/2008,Active
+W0054,C0054,"42 Station Road, Hillview",Fire Line,MTR-400475,11/30/2016,Active
+W0055,C0055,"99 Garden Row, Market Ward",Fire Line,MTR-627827,1/20/2013,Active
+W0056,C0056,"206 Harbor Way, Eastfield",Shared Meter,MTR-704753,1/27/2019,Active
+W0057,C0057,"150 Willow Lane, Southgate",Shared Meter,MTR-517040,7/20/2024,Active
+W0058,C0058,"107 Harbor Way, Westmoor",Fire Line,MTR-476155,3/21/2011,Active
+W0059,C0059,"220 River Street, Lakeside",High Capacity,MTR-923204,7/10/2025,Active
+W0060,C0060,"240 Garden Row, Cedar Park",Shared Meter,MTR-320204,11/16/2011,Active
+W0061,C0061,"201 Maple Crescent, Northbank",Shared Meter,MTR-785388,11/10/2021,Active
+W0062,C0062,"88 Cedar Road, Old Quarter",Fire Line,MTR-734697,9/11/2022,Active
+W0063,C0063,"175 Mill Street, Riverside",Standard,MTR-794813,2/25/2010,Active
+W0064,C0064,"161 Maple Crescent, Hillview",Standard,MTR-959704,4/29/2020,Active
+W0065,C0065,"196 Station Road, Market Ward",Standard,MTR-819032,3/1/2022,Active
+W0066,C0066,"154 Mill Street, Eastfield",Shared Meter,MTR-267557,3/13/2012,Active
+W0067,C0067,"36 Harbor Way, Southgate",Fire Line,MTR-141634,6/11/2020,Active
+W0068,C0068,"227 Foundry Road, Westmoor",Fire Line,MTR-563833,1/18/2023,Active
+W0069,C0069,"77 Harbor Way, Lakeside",High Capacity,MTR-784384,9/21/2022,Active
+W0070,C0070,"146 River Street, Cedar Park",Fire Line,MTR-124241,9/15/2018,Active
+W0071,C0071,"91 Maple Crescent, Northbank",Fire Line,MTR-489581,5/8/2025,Active
+W0072,C0072,"109 Canal Walk, Old Quarter",Shared Meter,MTR-671565,12/9/2023,Active
+W0073,C0073,"147 River Street, Riverside",Shared Meter,MTR-641089,7/22/2018,Active
+W0074,C0074,"178 Foundry Road, Hillview",High Capacity,MTR-894178,7/19/2020,Active
+W0075,C0075,"29 Canal Walk, Market Ward",Standard,MTR-663632,1/26/2015,Under Repair
+W0076,C0076,"32 Maple Crescent, Eastfield",Shared Meter,MTR-949137,10/20/2016,Active
+W0077,C0077,"49 River Street, Southgate",High Capacity,MTR-572414,3/21/2018,Active
+W0078,C0078,"158 Canal Walk, Westmoor",Fire Line,MTR-172150,5/12/2015,Active
+W0079,C0079,"64 Maple Crescent, Lakeside",High Capacity,MTR-409806,2/24/2024,Active
+W0080,C0080,"225 Foundry Road, Cedar Park",Shared Meter,MTR-308239,10/15/2012,Active
+W0081,C0081,"22 Summit Drive, Northbank",Shared Meter,MTR-469811,1/9/2010,Disconnected
+W0082,C0082,"74 Maple Crescent, Old Quarter",High Capacity,MTR-737232,8/17/2021,Active
+W0083,C0083,"11 Summit Drive, Riverside",Fire Line,MTR-145651,9/23/2024,Active
+W0084,C0084,"138 Orchard Avenue, Hillview",High Capacity,MTR-320308,6/26/2013,Under Repair
+W0085,C0085,"88 Summit Drive, Market Ward",Shared Meter,MTR-864425,10/18/2023,Active
+W0086,C0086,"236 Garden Row, Eastfield",Shared Meter,MTR-680608,7/10/2016,Active
+W0087,C0087,"228 Orchard Avenue, Southgate",Standard,MTR-142618,8/27/2021,Active
+W0088,C0088,"74 Station Road, Westmoor",Shared Meter,MTR-722790,6/17/2011,Active
+W0089,C0089,"122 Garden Row, Lakeside",Standard,MTR-587782,4/11/2016,Active
+W0090,C0090,"141 Maple Crescent, Cedar Park",Standard,MTR-183721,7/18/2015,Active
+W0091,C0091,"56 Willow Lane, Northbank",Standard,MTR-614365,3/22/2020,Active
+W0092,C0092,"199 Canal Walk, Old Quarter",High Capacity,MTR-295184,11/17/2018,Active
+W0093,C0093,"85 Maple Crescent, Riverside",Shared Meter,MTR-460203,2/14/2017,Active
+W0094,C0094,"211 Willow Lane, Hillview",Shared Meter,MTR-971405,8/5/2020,Disconnected
+W0095,C0095,"121 Orchard Avenue, Market Ward",High Capacity,MTR-533377,7/16/2018,Active
+W0096,C0096,"226 Summit Drive, Eastfield",High Capacity,MTR-385611,7/30/2019,Active
+W0097,C0097,"64 Garden Row, Southgate",Standard,MTR-609848,4/25/2021,Active
+W0098,C0098,"67 Garden Row, Westmoor",High Capacity,MTR-238395,2/28/2017,Active
+W0099,C0099,"227 Cedar Road, Lakeside",High Capacity,MTR-917509,8/15/2017,Disconnected
+W0100,C0100,"136 Willow Lane, Cedar Park",High Capacity,MTR-178978,7/24/2024,Active
+W0101,C0101,"181 Harbor Way, Northbank",Shared Meter,MTR-329239,1/4/2017,Active
+W0102,C0102,"120 Canal Walk, Old Quarter",Shared Meter,MTR-489159,8/11/2018,Active
+W0103,C0103,"103 Foundry Road, Riverside",Fire Line,MTR-459174,8/31/2015,Active
+W0104,C0104,"144 Cedar Road, Hillview",Standard,MTR-770337,5/18/2023,Active
+W0105,C0105,"99 Harbor Way, Market Ward",High Capacity,MTR-988060,5/4/2009,Under Repair
+W0106,C0106,"106 Willow Lane, Eastfield",Shared Meter,MTR-397371,7/8/2014,Active
+W0107,C0107,"68 Foundry Road, Southgate",Shared Meter,MTR-602819,5/15/2015,Active
+W0108,C0108,"23 Canal Walk, Westmoor",High Capacity,MTR-262795,9/12/2012,Active
+W0109,C0109,"145 Maple Crescent, Lakeside",Fire Line,MTR-749341,5/12/2020,Active
+W0110,C0110,"189 Cedar Road, Cedar Park",Fire Line,MTR-146275,7/8/2009,Active
+W0111,C0111,"214 Harbor Way, Northbank",Fire Line,MTR-696310,9/3/2015,Active
+W0112,C0112,"170 Summit Drive, Old Quarter",Fire Line,MTR-468052,7/10/2025,Active
+W0113,C0113,"207 Willow Lane, Riverside",Fire Line,MTR-253315,12/13/2012,Active
+W0114,C0114,"171 Garden Row, Hillview",Shared Meter,MTR-249581,9/3/2025,Active
+W0115,C0115,"144 Cedar Road, Market Ward",Shared Meter,MTR-270849,7/13/2023,Active
+W0116,C0116,"168 Mill Street, Eastfield",Standard,MTR-687844,3/23/2008,Active
+W0117,C0117,"145 River Street, Southgate",Fire Line,MTR-444284,9/9/2016,Active
+W0118,C0118,"100 Foundry Road, Westmoor",Fire Line,MTR-740699,3/7/2021,Active
+W0119,C0119,"7 Garden Row, Lakeside",High Capacity,MTR-502521,9/25/2019,Active
+W0120,C0120,"170 Foundry Road, Cedar Park",Fire Line,MTR-886361,2/25/2022,Active
+W0121,C0121,"4 Station Road, Northbank",Fire Line,MTR-229685,8/14/2013,Active
+W0122,C0122,"75 Orchard Avenue, Old Quarter",High Capacity,MTR-191027,6/21/2015,Active
+W0123,C0123,"50 Maple Crescent, Riverside",Shared Meter,MTR-406779,8/4/2014,Active
+W0124,C0124,"83 Canal Walk, Hillview",Standard,MTR-829305,9/4/2022,Active
+W0125,C0125,"182 Orchard Avenue, Market Ward",High Capacity,MTR-311895,4/9/2012,Active
+W0126,C0126,"200 Foundry Road, Eastfield",Standard,MTR-451601,4/22/2014,Active
+W0127,C0127,"179 Willow Lane, Southgate",Standard,MTR-619777,10/21/2021,Active
+W0128,C0128,"49 Mill Street, Westmoor",Fire Line,MTR-672003,8/12/2020,Active
+W0129,C0129,"182 Canal Walk, Lakeside",Shared Meter,MTR-793030,1/31/2023,Active
+W0130,C0130,"6 Canal Walk, Cedar Park",High Capacity,MTR-761665,12/16/2010,Active
+W0131,C0131,"7 Willow Lane, Northbank",Standard,MTR-231044,3/26/2024,Active
+W0132,C0132,"8 Summit Drive, Old Quarter",Standard,MTR-479577,10/5/2024,Active
+W0133,C0133,"59 Canal Walk, Riverside",Fire Line,MTR-715704,10/3/2014,Active
+W0134,C0134,"99 Willow Lane, Hillview",High Capacity,MTR-851422,6/26/2015,Active
+W0135,C0135,"83 Cedar Road, Market Ward",Standard,MTR-280665,1/10/2019,Active
+W0136,C0136,"78 Station Road, Eastfield",Standard,MTR-342579,5/23/2018,Active
+W0137,C0137,"109 Summit Drive, Southgate",Fire Line,MTR-526484,6/30/2023,Active
+W0138,C0138,"141 Harbor Way, Westmoor",Shared Meter,MTR-960805,9/16/2018,Active
+W0139,C0139,"45 Orchard Avenue, Lakeside",Fire Line,MTR-356681,1/6/2021,Active
+W0140,C0140,"69 Willow Lane, Cedar Park",Shared Meter,MTR-149265,8/26/2012,Active
+W0141,C0141,"30 Maple Crescent, Northbank",Standard,MTR-293412,2/17/2019,Active
+W0142,C0142,"21 Willow Lane, Old Quarter",Standard,MTR-173831,3/18/2023,Active
+W0143,C0143,"201 Station Road, Riverside",Fire Line,MTR-746404,7/27/2009,Active
+W0144,C0144,"188 Canal Walk, Hillview",Fire Line,MTR-860156,5/29/2009,Active
+W0145,C0145,"171 Willow Lane, Market Ward",Fire Line,MTR-649221,4/17/2019,Active
+W0146,C0146,"180 Foundry Road, Eastfield",Fire Line,MTR-491496,10/4/2014,Active
+W0147,C0147,"98 Orchard Avenue, Southgate",Standard,MTR-249348,9/17/2015,Under Repair
+W0148,C0148,"219 Maple Crescent, Westmoor",Shared Meter,MTR-246365,1/21/2014,Active
+W0149,C0149,"36 Orchard Avenue, Lakeside",Standard,MTR-154820,10/12/2009,Active
+W0150,C0150,"164 Summit Drive, Cedar Park",Shared Meter,MTR-488835,1/17/2014,Active
+W0151,C0151,"109 Maple Crescent, Northbank",Fire Line,MTR-108544,4/13/2015,Active
+W0152,C0152,"226 Garden Row, Old Quarter",Standard,MTR-460217,3/25/2009,Active
+W0153,C0153,"227 Foundry Road, Riverside",High Capacity,MTR-718396,9/8/2013,Active
+W0154,C0154,"239 Cedar Road, Hillview",Fire Line,MTR-224049,5/1/2014,Active
+W0155,C0155,"123 Maple Crescent, Market Ward",High Capacity,MTR-387231,1/12/2018,Active
+W0156,C0156,"38 Cedar Road, Eastfield",Standard,MTR-958295,7/27/2015,Active
+W0157,C0157,"179 Willow Lane, Southgate",Shared Meter,MTR-505736,3/22/2016,Active
+W0158,C0158,"182 Cedar Road, Westmoor",Shared Meter,MTR-317065,1/18/2018,Active
+W0159,C0159,"104 Orchard Avenue, Lakeside",Standard,MTR-997123,12/4/2011,Active
+W0160,C0160,"137 Harbor Way, Cedar Park",Standard,MTR-534767,11/4/2018,Active
+W0161,C0161,"158 Maple Crescent, Northbank",Standard,MTR-351539,2/23/2014,Active
+W0162,C0162,"215 Station Road, Old Quarter",Fire Line,MTR-898247,10/4/2025,Active
+W0163,C0163,"47 Mill Street, Riverside",Shared Meter,MTR-968977,8/18/2021,Active
+W0164,C0164,"91 Harbor Way, Hillview",Fire Line,MTR-608395,10/14/2020,Active
+W0165,C0165,"58 River Street, Market Ward",Fire Line,MTR-449069,9/6/2010,Active
+W0166,C0166,"64 Canal Walk, Eastfield",Standard,MTR-564086,9/23/2009,Active
+W0167,C0167,"212 Station Road, Southgate",Standard,MTR-251214,1/23/2018,Active
+W0168,C0168,"18 Orchard Avenue, Westmoor",Standard,MTR-812085,1/19/2009,Active
+W0169,C0169,"181 Foundry Road, Lakeside",Shared Meter,MTR-793013,8/28/2023,Active
+W0170,C0170,"182 Orchard Avenue, Cedar Park",Standard,MTR-777189,10/31/2013,Active
+W0171,C0171,"71 Canal Walk, Northbank",High Capacity,MTR-588388,11/17/2008,Active
+W0172,C0172,"224 Orchard Avenue, Old Quarter",High Capacity,MTR-532163,6/10/2012,Active
+W0173,C0173,"30 Canal Walk, Riverside",Fire Line,MTR-212427,2/25/2025,Active
+W0174,C0174,"167 Station Road, Hillview",High Capacity,MTR-710546,7/18/2010,Active
+W0175,C0175,"202 Maple Crescent, Market Ward",Fire Line,MTR-250861,7/14/2021,Active
+W0176,C0176,"80 Station Road, Eastfield",Fire Line,MTR-160377,8/27/2022,Active
+W0177,C0177,"38 Harbor Way, Southgate",High Capacity,MTR-922164,10/28/2016,Active
+W0178,C0178,"110 Maple Crescent, Westmoor",Standard,MTR-735724,10/3/2011,Active
+W0179,C0179,"203 River Street, Lakeside",Standard,MTR-349979,9/23/2009,Active
+W0180,C0180,"87 Cedar Road, Cedar Park",Standard,MTR-936873,1/26/2024,Active
+W0181,C0181,"24 Summit Drive, Northbank",High Capacity,MTR-887200,3/13/2014,Active
+W0182,C0182,"165 Garden Row, Old Quarter",Fire Line,MTR-768236,5/17/2022,Active
+W0183,C0183,"17 Mill Street, Riverside",Standard,MTR-791435,6/28/2016,Active
+W0184,C0184,"220 Mill Street, Hillview",Fire Line,MTR-175739,8/18/2015,Active
+W0185,C0185,"222 Garden Row, Market Ward",Shared Meter,MTR-222259,2/20/2020,Active
+W0186,C0186,"222 Maple Crescent, Eastfield",Fire Line,MTR-135371,9/1/2021,Active
+W0187,C0187,"11 Station Road, Southgate",Shared Meter,MTR-654779,11/17/2022,Active
+W0188,C0188,"170 Foundry Road, Westmoor",Fire Line,MTR-699586,8/23/2023,Active
+W0189,C0189,"83 Summit Drive, Lakeside",Standard,MTR-871281,10/17/2018,Under Repair
+W0190,C0190,"76 Orchard Avenue, Cedar Park",Shared Meter,MTR-568879,6/15/2023,Active
+W0191,C0191,"5 Garden Row, Northbank",Fire Line,MTR-112783,6/12/2025,Active
+W0192,C0192,"2 Maple Crescent, Old Quarter",Standard,MTR-176773,1/11/2025,Active
+W0193,C0193,"233 Orchard Avenue, Riverside",High Capacity,MTR-443281,2/22/2013,Active
+W0194,C0194,"7 Station Road, Hillview",Standard,MTR-340371,8/6/2019,Active
+W0195,C0195,"117 Maple Crescent, Market Ward",Shared Meter,MTR-872442,7/18/2017,Disconnected
+W0196,C0196,"41 Garden Row, Eastfield",High Capacity,MTR-656664,2/7/2022,Active
+W0197,C0197,"137 Summit Drive, Southgate",Fire Line,MTR-697152,10/18/2009,Active
+W0198,C0198,"46 Foundry Road, Westmoor",High Capacity,MTR-343218,9/1/2010,Active
+W0199,C0199,"127 Garden Row, Lakeside",High Capacity,MTR-255169,5/12/2024,Active
+W0200,C0200,"165 Station Road, Cedar Park",High Capacity,MTR-155651,5/4/2024,Active
+W0201,C0201,"195 Foundry Road, Northbank",Shared Meter,MTR-944846,1/2/2020,Active
+W0202,C0202,"42 Canal Walk, Old Quarter",Fire Line,MTR-513563,4/29/2010,Active
+W0203,C0203,"194 Foundry Road, Riverside",Standard,MTR-109175,8/17/2010,Active
+W0204,C0204,"63 Cedar Road, Hillview",Fire Line,MTR-836839,5/10/2013,Active
+W0205,C0205,"37 Summit Drive, Market Ward",Standard,MTR-371356,1/30/2016,Active
+W0206,C0206,"103 Garden Row, Eastfield",Standard,MTR-570420,6/3/2025,Active
+W0207,C0207,"112 Garden Row, Southgate",Shared Meter,MTR-885742,3/14/2017,Active
+W0208,C0208,"139 Cedar Road, Westmoor",Shared Meter,MTR-937247,11/7/2018,Active
+W0209,C0209,"131 Willow Lane, Lakeside",High Capacity,MTR-586801,10/23/2011,Active
+W0210,C0210,"99 Summit Drive, Cedar Park",Shared Meter,MTR-854675,12/5/2011,Active
+W0211,C0211,"206 Maple Crescent, Northbank",Fire Line,MTR-319846,12/28/2014,Active
+W0212,C0212,"218 Willow Lane, Old Quarter",Standard,MTR-192582,6/10/2024,Active
+W0213,C0213,"204 Willow Lane, Riverside",Standard,MTR-739078,7/3/2023,Active
+W0214,C0214,"19 Willow Lane, Hillview",High Capacity,MTR-555603,12/28/2010,Active
+W0215,C0215,"151 River Street, Market Ward",Fire Line,MTR-898346,11/28/2013,Active
+W0216,C0216,"45 Harbor Way, Eastfield",High Capacity,MTR-863770,9/25/2024,Active
+W0217,C0217,"79 Cedar Road, Southgate",Shared Meter,MTR-476056,4/24/2016,Active
+W0218,C0218,"48 Maple Crescent, Westmoor",Shared Meter,MTR-131190,7/1/2010,Active
+W0219,C0219,"6 Summit Drive, Lakeside",High Capacity,MTR-377931,12/2/2018,Active
+W0220,C0220,"184 River Street, Cedar Park",Shared Meter,MTR-272356,10/1/2024,Active
+W0221,C0221,"135 Garden Row, Northbank",Fire Line,MTR-247675,5/17/2015,Active
+W0222,C0222,"163 Cedar Road, Old Quarter",Standard,MTR-501462,1/15/2025,Active
+W0223,C0223,"81 Willow Lane, Riverside",Standard,MTR-700652,2/19/2010,Active
+W0224,C0224,"167 Willow Lane, Hillview",Fire Line,MTR-166870,8/30/2012,Active
+W0225,C0225,"66 Canal Walk, Market Ward",Fire Line,MTR-897578,1/26/2009,Active
+W0226,C0226,"48 Summit Drive, Eastfield",Fire Line,MTR-744628,2/4/2017,Disconnected
+W0227,C0227,"177 Foundry Road, Southgate",Shared Meter,MTR-632735,4/13/2009,Active
+W0228,C0228,"150 Orchard Avenue, Westmoor",Fire Line,MTR-817467,11/18/2024,Disconnected
+W0229,C0229,"85 Station Road, Lakeside",Fire Line,MTR-468796,12/16/2008,Active
+W0230,C0230,"206 Summit Drive, Cedar Park",Fire Line,MTR-743225,11/13/2020,Active
+W0231,C0231,"19 Summit Drive, Northbank",Shared Meter,MTR-784874,3/20/2019,Active
+W0232,C0232,"40 Mill Street, Old Quarter",Standard,MTR-474259,8/3/2016,Active
+W0233,C0233,"119 Harbor Way, Riverside",Fire Line,MTR-892349,4/3/2019,Active
+W0234,C0234,"80 Garden Row, Hillview",Standard,MTR-230050,3/11/2013,Active
+W0235,C0235,"149 Station Road, Market Ward",Standard,MTR-843591,7/14/2018,Active
+W0236,C0236,"72 Cedar Road, Eastfield",High Capacity,MTR-902303,12/21/2019,Active
+W0237,C0237,"10 Foundry Road, Southgate",High Capacity,MTR-872431,3/10/2015,Disconnected
+W0238,C0238,"211 Summit Drive, Westmoor",High Capacity,MTR-287844,9/12/2024,Under Repair
+W0239,C0239,"158 Willow Lane, Lakeside",High Capacity,MTR-510361,11/28/2024,Active
+W0240,C0240,"3 Harbor Way, Cedar Park",Fire Line,MTR-780392,11/23/2020,Active
+W0241,C0241,"177 Canal Walk, Northbank",High Capacity,MTR-494446,6/28/2016,Active
+W0242,C0242,"109 Willow Lane, Old Quarter",Shared Meter,MTR-299076,6/28/2016,Active
+W0243,C0243,"29 Mill Street, Riverside",Standard,MTR-432073,5/7/2014,Under Repair
+W0244,C0244,"7 Willow Lane, Hillview",Shared Meter,MTR-530787,11/14/2014,Active
+W0245,C0245,"2 Harbor Way, Market Ward",Fire Line,MTR-962786,10/1/2017,Active
+W0246,C0246,"208 Mill Street, Eastfield",Fire Line,MTR-970207,1/30/2016,Active
+W0247,C0247,"84 Canal Walk, Southgate",Shared Meter,MTR-825241,4/6/2008,Active
+W0248,C0248,"52 Foundry Road, Westmoor",Standard,MTR-748007,12/26/2010,Active
+W0249,C0249,"141 Harbor Way, Lakeside",High Capacity,MTR-343682,5/23/2019,Active
+W0250,C0250,"9 Maple Crescent, Cedar Park",Fire Line,MTR-724259,8/15/2020,Active
+W0251,C0251,"45 Mill Street, Northbank",Standard,MTR-777742,3/30/2024,Active
+W0252,C0252,"55 Summit Drive, Old Quarter",High Capacity,MTR-987516,8/29/2008,Active
+W0253,C0253,"199 Mill Street, Riverside",Standard,MTR-646272,9/14/2015,Active
+W0254,C0254,"200 River Street, Hillview",Fire Line,MTR-463563,7/21/2022,Active
+W0255,C0255,"158 Garden Row, Market Ward",High Capacity,MTR-384367,10/4/2008,Disconnected
+W0256,C0256,"235 Orchard Avenue, Eastfield",Shared Meter,MTR-417500,7/9/2024,Active
+W0257,C0257,"34 Orchard Avenue, Southgate",Shared Meter,MTR-753626,5/7/2022,Active
+W0258,C0258,"191 River Street, Westmoor",High Capacity,MTR-409460,1/5/2015,Active
+W0259,C0259,"137 Harbor Way, Lakeside",Shared Meter,MTR-562293,9/21/2010,Active
+W0260,C0260,"116 Willow Lane, Cedar Park",Shared Meter,MTR-111073,3/2/2012,Disconnected
+W0261,C0261,"23 Garden Row, Northbank",Standard,MTR-921560,12/19/2017,Active
+W0262,C0262,"83 Canal Walk, Old Quarter",Shared Meter,MTR-711741,2/28/2009,Active
+W0263,C0263,"129 Canal Walk, Riverside",High Capacity,MTR-570269,11/28/2019,Active
+W0264,C0264,"125 Summit Drive, Hillview",High Capacity,MTR-388213,6/17/2015,Active
+W0265,C0265,"210 Maple Crescent, Market Ward",Shared Meter,MTR-861181,4/17/2021,Active
+W0266,C0266,"2 Maple Crescent, Eastfield",Standard,MTR-423389,4/21/2014,Active
+W0267,C0267,"189 Foundry Road, Southgate",Fire Line,MTR-633894,3/12/2008,Active
+W0268,C0268,"219 Willow Lane, Westmoor",Fire Line,MTR-307900,1/6/2020,Active
+W0269,C0269,"203 Summit Drive, Lakeside",High Capacity,MTR-834510,5/5/2018,Disconnected
+W0270,C0270,"58 Summit Drive, Cedar Park",Fire Line,MTR-712673,8/28/2013,Active
+W0271,C0271,"139 Maple Crescent, Northbank",High Capacity,MTR-872041,5/2/2009,Active
+W0272,C0272,"65 Summit Drive, Old Quarter",Standard,MTR-663541,9/27/2019,Active
+W0273,C0273,"185 Cedar Road, Riverside",High Capacity,MTR-865231,8/1/2021,Active
+W0274,C0274,"172 Harbor Way, Hillview",Standard,MTR-984805,5/23/2015,Active
+W0275,C0275,"39 Canal Walk, Market Ward",Standard,MTR-244085,7/24/2021,Active
+W0276,C0276,"3 Cedar Road, Eastfield",Standard,MTR-944917,1/13/2025,Active
+W0277,C0277,"196 Mill Street, Southgate",Standard,MTR-552602,8/23/2011,Disconnected
+W0278,C0278,"130 Maple Crescent, Westmoor",Standard,MTR-314070,5/28/2009,Active
+W0279,C0279,"34 Willow Lane, Lakeside",Fire Line,MTR-296116,1/18/2017,Active
+W0280,C0280,"92 River Street, Cedar Park",Shared Meter,MTR-472747,4/4/2008,Active
+W0281,C0281,"1 Station Road, Northbank",Shared Meter,MTR-692619,6/12/2011,Active
+W0282,C0282,"178 Summit Drive, Old Quarter",Shared Meter,MTR-268531,1/31/2014,Active
+W0283,C0283,"93 Willow Lane, Riverside",Fire Line,MTR-529415,7/19/2022,Active
+W0284,C0284,"215 Mill Street, Hillview",Fire Line,MTR-734181,1/18/2018,Disconnected
+W0285,C0285,"131 Harbor Way, Market Ward",Standard,MTR-294220,8/11/2013,Active
+W0286,C0286,"175 Cedar Road, Eastfield",Fire Line,MTR-474270,7/22/2023,Active
+W0287,C0287,"87 Garden Row, Southgate",Fire Line,MTR-259603,5/30/2020,Active
+W0288,C0288,"51 River Street, Westmoor",High Capacity,MTR-822456,2/20/2020,Active
+W0289,C0289,"6 Mill Street, Lakeside",High Capacity,MTR-278142,5/29/2021,Active
+W0290,C0290,"165 Willow Lane, Cedar Park",Standard,MTR-235846,2/1/2018,Active
+W0291,C0291,"1 Cedar Road, Northbank",Shared Meter,MTR-705398,8/9/2012,Active
+W0292,C0292,"220 Garden Row, Old Quarter",Shared Meter,MTR-807010,9/28/2015,Active
+W0293,C0293,"72 Foundry Road, Riverside",Shared Meter,MTR-616971,5/11/2024,Active
+W0294,C0294,"107 Cedar Road, Hillview",Shared Meter,MTR-264944,2/2/2017,Active
+W0295,C0295,"127 Canal Walk, Market Ward",Shared Meter,MTR-812077,4/14/2016,Active
+W0296,C0296,"163 Maple Crescent, Eastfield",High Capacity,MTR-402013,7/25/2011,Active
+W0297,C0297,"74 Orchard Avenue, Southgate",Fire Line,MTR-369108,7/17/2018,Active
+W0298,C0298,"85 Station Road, Westmoor",Standard,MTR-147138,11/13/2023,Active
+W0299,C0299,"51 Station Road, Lakeside",Fire Line,MTR-284565,2/20/2021,Active
+W0300,C0300,"126 Cedar Road, Cedar Park",Fire Line,MTR-985450,2/26/2021,Active
+W0301,C0301,"221 Harbor Way, Northbank",Fire Line,MTR-126914,6/11/2009,Active
+W0302,C0302,"198 Orchard Avenue, Old Quarter",Standard,MTR-100314,5/4/2018,Active
+W0303,C0303,"8 Foundry Road, Riverside",Shared Meter,MTR-270514,9/23/2018,Active
+W0304,C0304,"238 Canal Walk, Hillview",Shared Meter,MTR-691222,3/19/2020,Active
+W0305,C0305,"211 Station Road, Market Ward",Fire Line,MTR-243576,5/10/2021,Active
+W0306,C0306,"127 Canal Walk, Eastfield",Standard,MTR-245013,8/4/2017,Active
+W0307,C0307,"213 Mill Street, Southgate",Shared Meter,MTR-225229,10/16/2024,Active
+W0308,C0308,"212 Willow Lane, Westmoor",Shared Meter,MTR-452418,7/2/2009,Active
+W0309,C0309,"42 Station Road, Lakeside",Shared Meter,MTR-313073,7/3/2008,Active
+W0310,C0310,"145 Station Road, Cedar Park",Shared Meter,MTR-718894,10/8/2016,Active
+W0311,C0311,"222 Station Road, Northbank",Shared Meter,MTR-126367,6/2/2013,Active
+W0312,C0312,"196 River Street, Old Quarter",Standard,MTR-898530,5/8/2021,Active
+W0313,C0313,"205 Summit Drive, Riverside",High Capacity,MTR-635289,9/25/2015,Active
+W0314,C0314,"208 Willow Lane, Hillview",High Capacity,MTR-768667,1/25/2021,Active
+W0315,C0315,"185 River Street, Market Ward",Fire Line,MTR-343032,6/17/2022,Active
+W0316,C0316,"212 Willow Lane, Eastfield",Shared Meter,MTR-314109,11/19/2017,Active
+W0317,C0317,"103 Willow Lane, Southgate",Fire Line,MTR-137265,6/10/2009,Disconnected
+W0318,C0318,"176 Summit Drive, Westmoor",Fire Line,MTR-896134,3/5/2024,Active
+W0319,C0319,"18 Summit Drive, Lakeside",Fire Line,MTR-460717,1/28/2009,Active
+W0320,C0320,"133 Garden Row, Cedar Park",Standard,MTR-663182,7/19/2023,Active
+W0321,C0321,"85 Willow Lane, Northbank",Fire Line,MTR-717333,11/28/2018,Disconnected
+W0322,C0322,"101 Canal Walk, Old Quarter",Shared Meter,MTR-867791,9/24/2013,Active
+W0323,C0323,"225 Orchard Avenue, Riverside",Shared Meter,MTR-782480,9/11/2020,Active
+W0324,C0324,"118 Willow Lane, Hillview",Fire Line,MTR-931499,8/9/2011,Active
+W0325,C0325,"151 Harbor Way, Market Ward",Fire Line,MTR-835883,1/27/2023,Active
+W0326,C0326,"20 Canal Walk, Eastfield",Shared Meter,MTR-540873,4/2/2022,Disconnected
+W0327,C0327,"169 Orchard Avenue, Southgate",Shared Meter,MTR-377798,6/17/2025,Active
+W0328,C0328,"234 Canal Walk, Westmoor",Shared Meter,MTR-858603,5/1/2014,Active
+W0329,C0329,"205 Summit Drive, Lakeside",Standard,MTR-916148,10/6/2017,Active
+W0330,C0330,"2 Willow Lane, Cedar Park",High Capacity,MTR-813658,2/24/2012,Active
+W0331,C0331,"144 Garden Row, Northbank",Fire Line,MTR-389653,2/24/2015,Active
+W0332,C0332,"177 Cedar Road, Old Quarter",High Capacity,MTR-590165,4/27/2019,Active
+W0333,C0333,"59 Orchard Avenue, Riverside",Shared Meter,MTR-899692,9/18/2025,Active
+W0334,C0334,"209 Summit Drive, Hillview",Standard,MTR-982236,3/14/2020,Active
+W0335,C0335,"206 Orchard Avenue, Market Ward",High Capacity,MTR-304264,4/15/2011,Active
+W0336,C0336,"140 Maple Crescent, Eastfield",Standard,MTR-137073,2/11/2012,Active
+W0337,C0337,"56 Orchard Avenue, Southgate",Fire Line,MTR-641381,8/15/2021,Active
+W0338,C0338,"19 Foundry Road, Westmoor",Fire Line,MTR-568788,5/12/2017,Active
+W0339,C0339,"205 Station Road, Lakeside",Fire Line,MTR-167891,2/4/2014,Active
+W0340,C0340,"96 Foundry Road, Cedar Park",High Capacity,MTR-858778,7/20/2012,Active
+W0341,C0341,"20 Maple Crescent, Northbank",Shared Meter,MTR-149083,5/24/2018,Active
+W0342,C0342,"185 Maple Crescent, Old Quarter",Standard,MTR-902285,8/15/2023,Active
+W0343,C0343,"123 Harbor Way, Riverside",Standard,MTR-692197,2/4/2021,Active
+W0344,C0344,"18 Summit Drive, Hillview",High Capacity,MTR-937271,12/17/2023,Active
+W0345,C0345,"30 Willow Lane, Market Ward",High Capacity,MTR-386817,7/17/2009,Active
+W0346,C0346,"46 River Street, Eastfield",Shared Meter,MTR-935390,11/12/2024,Active
+W0347,C0347,"219 Cedar Road, Southgate",Standard,MTR-587800,2/7/2013,Active
+W0348,C0348,"174 Canal Walk, Westmoor",Shared Meter,MTR-752733,5/30/2014,Under Repair
+W0349,C0349,"26 Garden Row, Lakeside",Shared Meter,MTR-807408,1/11/2021,Active
+W0350,C0350,"176 Mill Street, Cedar Park",Shared Meter,MTR-632731,4/19/2016,Active
+W0351,C0351,"1 Orchard Avenue, Northbank",Fire Line,MTR-191963,5/18/2019,Active
+W0352,C0352,"75 Garden Row, Old Quarter",Fire Line,MTR-214043,5/3/2012,Active
+W0353,C0353,"200 Cedar Road, Riverside",Fire Line,MTR-166781,9/18/2024,Active
+W0354,C0354,"185 Summit Drive, Hillview",Standard,MTR-704776,5/29/2015,Disconnected
+W0355,C0355,"236 Garden Row, Market Ward",High Capacity,MTR-126464,12/13/2020,Active
+W0356,C0356,"36 Summit Drive, Eastfield",High Capacity,MTR-279929,8/1/2016,Active
+W0357,C0357,"240 Cedar Road, Southgate",High Capacity,MTR-353588,2/19/2022,Active
+W0358,C0358,"238 Summit Drive, Westmoor",High Capacity,MTR-164865,6/4/2013,Active
+W0359,C0359,"180 Summit Drive, Lakeside",Shared Meter,MTR-138686,11/1/2020,Active
+W0360,C0360,"202 Canal Walk, Cedar Park",Fire Line,MTR-245440,6/6/2009,Active
+W0361,C0361,"178 Willow Lane, Northbank",High Capacity,MTR-792384,5/19/2012,Active
+W0362,C0362,"205 Summit Drive, Old Quarter",Standard,MTR-459756,10/2/2013,Active
+W0363,C0363,"114 Station Road, Riverside",Shared Meter,MTR-739597,3/29/2012,Active
+W0364,C0364,"82 Cedar Road, Hillview",Shared Meter,MTR-821534,4/18/2011,Active
+W0365,C0365,"222 River Street, Market Ward",Fire Line,MTR-290572,8/7/2018,Active
+W0366,C0366,"236 Cedar Road, Eastfield",Fire Line,MTR-375964,1/3/2023,Active
+W0367,C0367,"26 River Street, Southgate",Fire Line,MTR-537830,8/5/2025,Active
+W0368,C0368,"156 Harbor Way, Westmoor",High Capacity,MTR-262795,7/19/2022,Active
+W0369,C0369,"160 River Street, Lakeside",Standard,MTR-699632,10/10/2014,Active
+W0370,C0370,"22 Maple Crescent, Cedar Park",Standard,MTR-292338,5/7/2018,Active
+W0371,C0371,"185 Foundry Road, Northbank",Fire Line,MTR-872207,8/25/2016,Active
+W0372,C0372,"136 Station Road, Old Quarter",High Capacity,MTR-368020,1/1/2018,Active
+W0373,C0373,"48 Mill Street, Riverside",High Capacity,MTR-290835,4/4/2023,Active
+W0374,C0374,"48 River Street, Hillview",High Capacity,MTR-227093,11/15/2010,Active
+W0375,C0375,"132 Orchard Avenue, Market Ward",Fire Line,MTR-416246,2/15/2025,Active
+W0376,C0376,"223 Canal Walk, Eastfield",High Capacity,MTR-739523,10/23/2020,Active
+W0377,C0377,"31 Mill Street, Southgate",High Capacity,MTR-419375,8/12/2023,Active
+W0378,C0378,"19 River Street, Westmoor",Standard,MTR-977293,1/13/2009,Active
+W0379,C0379,"11 Foundry Road, Lakeside",High Capacity,MTR-252220,12/19/2008,Active
+W0380,C0380,"178 Orchard Avenue, Cedar Park",Fire Line,MTR-832636,6/24/2023,Active
+W0381,C0381,"40 Station Road, Northbank",Standard,MTR-761953,3/15/2021,Active
+W0382,C0382,"202 Station Road, Old Quarter",High Capacity,MTR-434176,1/12/2021,Active
+W0383,C0383,"63 Canal Walk, Riverside",Shared Meter,MTR-837949,6/22/2025,Active
+W0384,C0384,"206 Cedar Road, Hillview",Shared Meter,MTR-793288,9/30/2020,Active
+W0385,C0385,"158 River Street, Market Ward",High Capacity,MTR-984473,1/29/2013,Active
+W0386,C0386,"140 Summit Drive, Eastfield",High Capacity,MTR-137267,5/2/2009,Active
+W0387,C0387,"223 Canal Walk, Southgate",Standard,MTR-627466,6/26/2016,Active
+W0388,C0388,"198 River Street, Westmoor",Shared Meter,MTR-134611,12/11/2012,Active
+W0389,C0389,"160 Orchard Avenue, Lakeside",Fire Line,MTR-377957,5/4/2022,Active
+W0390,C0390,"87 Foundry Road, Cedar Park",High Capacity,MTR-180290,2/29/2024,Active
+W0391,C0391,"54 Cedar Road, Northbank",Standard,MTR-895121,5/9/2011,Active
+W0392,C0392,"15 Canal Walk, Old Quarter",Standard,MTR-933421,3/20/2008,Active
+W0393,C0393,"112 Summit Drive, Riverside",Fire Line,MTR-738488,6/20/2018,Active
+W0394,C0394,"116 Harbor Way, Hillview",High Capacity,MTR-113478,8/12/2018,Active
+W0395,C0395,"201 Maple Crescent, Market Ward",Standard,MTR-177040,12/18/2012,Active
+W0396,C0396,"140 Harbor Way, Eastfield",High Capacity,MTR-837529,2/23/2009,Active
+W0397,C0397,"90 Station Road, Southgate",High Capacity,MTR-829255,8/27/2023,Active
+W0398,C0398,"148 Maple Crescent, Westmoor",Standard,MTR-705536,12/15/2024,Active
+W0399,C0399,"28 Cedar Road, Lakeside",High Capacity,MTR-836876,3/31/2024,Active
+W0400,C0400,"38 River Street, Cedar Park",Standard,MTR-335065,5/9/2017,Active
+W0401,C0401,"131 Foundry Road, Northbank",High Capacity,MTR-795621,9/19/2009,Active
+W0402,C0402,"141 Harbor Way, Old Quarter",Shared Meter,MTR-494115,8/5/2024,Active
+W0403,C0403,"201 Mill Street, Riverside",Fire Line,MTR-559011,8/1/2018,Active
+W0404,C0404,"68 Harbor Way, Hillview",Shared Meter,MTR-334151,8/2/2022,Active
+W0405,C0405,"71 Summit Drive, Market Ward",Fire Line,MTR-506615,4/3/2013,Active
+W0406,C0406,"34 Canal Walk, Eastfield",Fire Line,MTR-210655,4/22/2020,Active
+W0407,C0407,"191 River Street, Southgate",Shared Meter,MTR-826750,11/16/2024,Active
+W0408,C0408,"61 Mill Street, Westmoor",High Capacity,MTR-478318,4/21/2018,Active
+W0409,C0409,"68 Mill Street, Lakeside",Standard,MTR-269408,1/18/2019,Active
+W0410,C0410,"5 Maple Crescent, Cedar Park",Standard,MTR-401078,11/10/2014,Active
+W0411,C0411,"9 Cedar Road, Northbank",Fire Line,MTR-528503,4/4/2023,Active
+W0412,C0412,"117 Cedar Road, Old Quarter",Shared Meter,MTR-126232,2/13/2021,Active
+W0413,C0413,"63 Foundry Road, Riverside",Fire Line,MTR-971060,8/6/2017,Active
+W0414,C0414,"1 Orchard Avenue, Hillview",High Capacity,MTR-700852,11/21/2024,Active
+W0415,C0415,"100 Cedar Road, Market Ward",High Capacity,MTR-418136,10/24/2012,Active
+W0416,C0416,"145 River Street, Eastfield",Fire Line,MTR-449964,11/15/2014,Disconnected
+W0417,C0417,"220 Willow Lane, Southgate",Shared Meter,MTR-455093,6/22/2012,Active
+W0418,C0418,"38 Summit Drive, Westmoor",Standard,MTR-235305,12/26/2009,Active
+W0419,C0419,"6 Summit Drive, Lakeside",Shared Meter,MTR-618528,1/24/2025,Active
+W0420,C0420,"235 Orchard Avenue, Cedar Park",Standard,MTR-399156,7/22/2020,Active
+W0421,C0421,"213 Garden Row, Northbank",Fire Line,MTR-491373,8/27/2021,Active
+W0422,C0422,"166 Mill Street, Old Quarter",Fire Line,MTR-887592,10/9/2009,Active
+W0423,C0423,"201 Garden Row, Riverside",High Capacity,MTR-531404,5/1/2016,Active
+W0424,C0424,"228 Canal Walk, Hillview",Fire Line,MTR-794816,10/4/2022,Active
+W0425,C0425,"91 River Street, Market Ward",Fire Line,MTR-264646,2/12/2021,Active
+W0426,C0426,"230 River Street, Eastfield",Fire Line,MTR-138272,1/2/2018,Active
+W0427,C0427,"128 Cedar Road, Southgate",Shared Meter,MTR-177288,8/28/2015,Active
+W0428,C0428,"124 Mill Street, Westmoor",Standard,MTR-222118,7/25/2009,Active
+W0429,C0429,"112 Summit Drive, Lakeside",Fire Line,MTR-351574,3/30/2008,Active
+W0430,C0430,"44 Cedar Road, Cedar Park",Standard,MTR-721910,3/30/2024,Active
+W0431,C0431,"237 Harbor Way, Northbank",Fire Line,MTR-869363,5/23/2012,Active
+W0432,C0432,"87 Harbor Way, Old Quarter",Shared Meter,MTR-414278,12/23/2018,Active
+W0433,C0433,"145 Summit Drive, Riverside",High Capacity,MTR-496460,2/17/2019,Disconnected
+W0434,C0434,"204 Cedar Road, Hillview",Standard,MTR-214446,11/14/2022,Active
+W0435,C0435,"48 Maple Crescent, Market Ward",Shared Meter,MTR-535334,11/1/2016,Active
+W0436,C0436,"105 Mill Street, Eastfield",Shared Meter,MTR-831922,6/27/2014,Active
+W0437,C0437,"62 Station Road, Southgate",High Capacity,MTR-892487,5/27/2008,Active
+W0438,C0438,"67 Station Road, Westmoor",Fire Line,MTR-527271,9/13/2012,Active
+W0439,C0439,"50 Harbor Way, Lakeside",Fire Line,MTR-490863,6/6/2019,Active
+W0440,C0440,"61 Station Road, Cedar Park",High Capacity,MTR-471129,7/27/2015,Active
+W0441,C0441,"25 Canal Walk, Northbank",Standard,MTR-181301,11/1/2020,Active
+W0442,C0442,"226 Garden Row, Old Quarter",Fire Line,MTR-929172,4/12/2022,Active
+W0443,C0443,"150 Cedar Road, Riverside",Shared Meter,MTR-871884,10/13/2025,Active
+W0444,C0444,"15 Cedar Road, Hillview",High Capacity,MTR-934224,9/10/2012,Active
+W0445,C0445,"67 Mill Street, Market Ward",Standard,MTR-678948,2/28/2018,Active
+W0446,C0446,"168 Garden Row, Eastfield",Standard,MTR-270693,6/12/2013,Active
+W0447,C0447,"169 Willow Lane, Southgate",Standard,MTR-407908,1/18/2015,Active
+W0448,C0448,"74 Garden Row, Westmoor",Shared Meter,MTR-281329,3/25/2023,Active
+W0449,C0449,"48 Foundry Road, Lakeside",Standard,MTR-295149,6/11/2009,Active
+W0450,C0450,"194 Cedar Road, Cedar Park",Standard,MTR-806660,1/12/2023,Active
+W0451,C0451,"135 Mill Street, Northbank",High Capacity,MTR-782158,7/14/2012,Active
+W0452,C0452,"118 Foundry Road, Old Quarter",High Capacity,MTR-941319,7/7/2012,Active
+W0453,C0453,"43 Garden Row, Riverside",Shared Meter,MTR-914228,3/20/2014,Active
+W0454,C0454,"205 Willow Lane, Hillview",Fire Line,MTR-943373,9/29/2014,Active
+W0455,C0455,"89 Harbor Way, Market Ward",Standard,MTR-405789,12/27/2024,Active
+W0456,C0456,"222 Station Road, Eastfield",Standard,MTR-388326,7/28/2021,Active
+W0457,C0457,"68 Foundry Road, Southgate",Shared Meter,MTR-842917,9/3/2008,Active
+W0458,C0458,"93 Foundry Road, Westmoor",Fire Line,MTR-611483,12/25/2014,Active
+W0459,C0459,"206 Garden Row, Lakeside",Standard,MTR-529553,10/23/2015,Under Repair
+W0460,C0460,"99 Willow Lane, Cedar Park",High Capacity,MTR-301018,7/27/2023,Active
+W0461,C0461,"107 Foundry Road, Northbank",Shared Meter,MTR-512525,12/10/2013,Active
+W0462,C0462,"82 Garden Row, Old Quarter",Fire Line,MTR-991558,7/24/2022,Active
+W0463,C0463,"208 Summit Drive, Riverside",High Capacity,MTR-669378,12/18/2012,Active
+W0464,C0464,"90 Harbor Way, Hillview",Standard,MTR-440213,3/8/2011,Active
+W0465,C0465,"177 Garden Row, Market Ward",Fire Line,MTR-369109,12/21/2013,Active
+W0466,C0466,"22 Garden Row, Eastfield",High Capacity,MTR-313025,10/17/2014,Under Repair
+W0467,C0467,"234 Willow Lane, Southgate",Shared Meter,MTR-144720,4/1/2016,Active
+W0468,C0468,"150 Willow Lane, Westmoor",High Capacity,MTR-147462,6/23/2009,Active
+W0469,C0469,"172 Orchard Avenue, Lakeside",Shared Meter,MTR-674178,1/9/2010,Active
+W0470,C0470,"188 Foundry Road, Cedar Park",Standard,MTR-987208,6/28/2008,Active
+W0471,C0471,"117 Station Road, Northbank",Standard,MTR-816820,1/6/2013,Under Repair
+W0472,C0472,"184 Cedar Road, Old Quarter",Shared Meter,MTR-108077,8/2/2025,Active
+W0473,C0473,"150 Maple Crescent, Riverside",High Capacity,MTR-878436,9/30/2014,Active
+W0474,C0474,"10 Summit Drive, Hillview",Fire Line,MTR-177348,4/12/2010,Active
+W0475,C0475,"235 Cedar Road, Market Ward",High Capacity,MTR-391504,11/10/2024,Active
+W0476,C0476,"215 Canal Walk, Eastfield",Shared Meter,MTR-599488,3/15/2022,Active
+W0477,C0477,"80 Orchard Avenue, Southgate",Fire Line,MTR-951613,5/13/2008,Active
+W0478,C0478,"38 Summit Drive, Westmoor",Fire Line,MTR-566716,4/11/2015,Active
+W0479,C0479,"236 Station Road, Lakeside",Shared Meter,MTR-140487,4/25/2014,Active
+W0480,C0480,"13 River Street, Cedar Park",Standard,MTR-108551,12/8/2011,Active
+W0481,C0481,"73 River Street, Northbank",High Capacity,MTR-745439,4/15/2012,Active
+W0482,C0482,"33 Canal Walk, Old Quarter",High Capacity,MTR-399537,6/15/2017,Active
+W0483,C0483,"125 Foundry Road, Riverside",Fire Line,MTR-352827,6/19/2020,Active
+W0484,C0484,"137 Canal Walk, Hillview",High Capacity,MTR-606936,2/14/2008,Active
+W0485,C0485,"49 Garden Row, Market Ward",Shared Meter,MTR-506691,12/30/2011,Active
+W0486,C0486,"154 Canal Walk, Eastfield",Standard,MTR-465772,10/30/2014,Active
+W0487,C0487,"79 Willow Lane, Southgate",High Capacity,MTR-853493,9/6/2015,Active
+W0488,C0488,"164 Canal Walk, Westmoor",High Capacity,MTR-748483,5/13/2019,Active
+W0489,C0489,"177 Orchard Avenue, Lakeside",Fire Line,MTR-958980,12/11/2016,Active
+W0490,C0490,"238 Summit Drive, Cedar Park",High Capacity,MTR-580726,10/18/2023,Active
+W0491,C0491,"86 Summit Drive, Northbank",High Capacity,MTR-971016,5/10/2016,Active
+W0492,C0492,"155 Canal Walk, Old Quarter",High Capacity,MTR-285284,7/19/2023,Active
+W0493,C0493,"131 Orchard Avenue, Riverside",Shared Meter,MTR-959300,4/21/2019,Active
+W0494,C0494,"114 Willow Lane, Hillview",Fire Line,MTR-943712,12/13/2019,Active
+W0495,C0495,"211 Maple Crescent, Market Ward",Standard,MTR-784443,2/24/2014,Active
+W0496,C0496,"8 Garden Row, Eastfield",High Capacity,MTR-210625,7/10/2016,Active
+W0497,C0497,"180 Willow Lane, Southgate",Fire Line,MTR-349049,6/23/2018,Active
+W0498,C0498,"97 Orchard Avenue, Westmoor",Standard,MTR-985975,7/31/2012,Active
+W0499,C0499,"61 Maple Crescent, Lakeside",Fire Line,MTR-264256,9/10/2008,Active
+W0500,C0500,"39 Foundry Road, Cedar Park",Shared Meter,MTR-985199,6/23/2019,Active
+W0501,C0501,"176 Mill Street, Northbank",Shared Meter,MTR-765797,6/3/2017,Active
+W0502,C0502,"36 River Street, Old Quarter",Shared Meter,MTR-603579,12/24/2012,Active
+W0503,C0503,"65 Cedar Road, Riverside",High Capacity,MTR-753466,6/18/2020,Active
+W0504,C0504,"125 Garden Row, Hillview",Fire Line,MTR-952047,1/23/2016,Active
+W0505,C0505,"173 Summit Drive, Market Ward",Fire Line,MTR-460325,10/29/2021,Active
+W0506,C0506,"181 Canal Walk, Eastfield",Standard,MTR-501594,6/13/2013,Active
+W0507,C0507,"166 Canal Walk, Southgate",High Capacity,MTR-677989,7/29/2021,Under Repair
+W0508,C0508,"171 Mill Street, Westmoor",High Capacity,MTR-135457,2/26/2021,Active
+W0509,C0509,"208 Canal Walk, Lakeside",High Capacity,MTR-419395,10/13/2016,Disconnected
+W0510,C0510,"37 Station Road, Cedar Park",Shared Meter,MTR-642795,3/23/2016,Active
+W0511,C0511,"162 River Street, Northbank",High Capacity,MTR-313400,6/14/2022,Active
+W0512,C0512,"166 Maple Crescent, Old Quarter",Shared Meter,MTR-909143,11/22/2010,Active
+W0513,C0513,"194 Orchard Avenue, Riverside",Standard,MTR-827270,8/21/2021,Active
+W0514,C0514,"3 River Street, Hillview",High Capacity,MTR-577442,3/10/2021,Active
+W0515,C0515,"207 Mill Street, Market Ward",Shared Meter,MTR-319002,1/17/2010,Active
+W0516,C0516,"132 River Street, Eastfield",Standard,MTR-337944,3/27/2021,Active
+W0517,C0517,"231 Maple Crescent, Southgate",High Capacity,MTR-684384,3/6/2021,Active
+W0518,C0518,"78 Orchard Avenue, Westmoor",Fire Line,MTR-349020,10/17/2020,Active
+W0519,C0519,"89 Foundry Road, Lakeside",High Capacity,MTR-343512,11/19/2015,Active
+W0520,C0520,"61 Mill Street, Cedar Park",Shared Meter,MTR-234943,2/19/2015,Active
+W0521,C0521,"172 Cedar Road, Northbank",Shared Meter,MTR-440748,10/4/2021,Disconnected
+W0522,C0522,"17 Harbor Way, Old Quarter",Shared Meter,MTR-118697,3/13/2019,Active
+W0523,C0523,"141 Orchard Avenue, Riverside",Fire Line,MTR-824139,8/6/2024,Active
+W0524,C0524,"97 River Street, Hillview",High Capacity,MTR-490459,9/15/2014,Active
+W0525,C0525,"73 Garden Row, Market Ward",High Capacity,MTR-831144,11/3/2017,Active
+W0526,C0526,"91 Summit Drive, Eastfield",Shared Meter,MTR-487269,9/19/2024,Active
+W0527,C0527,"158 Summit Drive, Southgate",Standard,MTR-792723,7/31/2012,Active
+W0528,C0528,"224 Canal Walk, Westmoor",Shared Meter,MTR-502405,12/22/2015,Active
+W0529,C0529,"98 Canal Walk, Lakeside",Fire Line,MTR-692800,8/30/2012,Active
+W0530,C0530,"67 Cedar Road, Cedar Park",Standard,MTR-339434,2/25/2008,Active
+W0531,C0531,"157 Foundry Road, Northbank",Shared Meter,MTR-155695,10/17/2013,Active
+W0532,C0532,"153 Harbor Way, Old Quarter",High Capacity,MTR-858665,12/9/2020,Active
+W0533,C0533,"14 Station Road, Riverside",High Capacity,MTR-316090,3/8/2024,Active
+W0534,C0534,"94 Garden Row, Hillview",High Capacity,MTR-741086,2/11/2012,Active
+W0535,C0535,"54 Willow Lane, Market Ward",Shared Meter,MTR-623306,3/20/2016,Active
+W0536,C0536,"76 Foundry Road, Eastfield",Standard,MTR-902231,7/24/2010,Active
+W0537,C0537,"97 Harbor Way, Southgate",Fire Line,MTR-914541,3/14/2014,Active
+W0538,C0538,"212 Station Road, Westmoor",Fire Line,MTR-333410,4/28/2015,Active
+W0539,C0539,"41 River Street, Lakeside",Fire Line,MTR-269838,6/14/2013,Active
+W0540,C0540,"25 Garden Row, Cedar Park",Shared Meter,MTR-628150,3/31/2018,Active
+W0541,C0541,"72 Cedar Road, Northbank",Fire Line,MTR-491437,3/9/2019,Active
+W0542,C0542,"211 Station Road, Old Quarter",Shared Meter,MTR-600216,2/2/2014,Active
+W0543,C0543,"63 Garden Row, Riverside",Fire Line,MTR-965325,4/23/2017,Active
+W0544,C0544,"84 Foundry Road, Hillview",Shared Meter,MTR-549125,11/25/2009,Disconnected
+W0545,C0545,"32 Maple Crescent, Market Ward",Shared Meter,MTR-873493,9/28/2010,Active
+W0546,C0546,"238 Cedar Road, Eastfield",Standard,MTR-895039,2/27/2010,Active
+W0547,C0547,"77 Foundry Road, Southgate",Fire Line,MTR-578693,12/28/2017,Active
+W0548,C0548,"105 Garden Row, Westmoor",Shared Meter,MTR-801305,3/15/2023,Active
+W0549,C0549,"124 Harbor Way, Lakeside",Standard,MTR-726951,3/5/2022,Active
+W0550,C0550,"77 Harbor Way, Cedar Park",Standard,MTR-625616,3/5/2015,Active
+W0551,C0551,"161 Mill Street, Northbank",Standard,MTR-493698,8/24/2019,Active
+W0552,C0552,"222 Cedar Road, Old Quarter",High Capacity,MTR-303238,7/10/2020,Under Repair
+W0553,C0553,"234 Willow Lane, Riverside",Shared Meter,MTR-510493,6/28/2010,Active
+W0554,C0554,"123 Summit Drive, Hillview",Fire Line,MTR-898341,1/17/2010,Disconnected
+W0555,C0555,"19 River Street, Market Ward",Shared Meter,MTR-729830,5/18/2017,Active
+W0556,C0556,"175 Cedar Road, Eastfield",Shared Meter,MTR-735772,6/2/2022,Active
+W0557,C0557,"28 Maple Crescent, Southgate",Shared Meter,MTR-512983,8/3/2016,Active
+W0558,C0558,"222 River Street, Westmoor",Shared Meter,MTR-119172,6/14/2008,Active
+W0559,C0559,"72 Maple Crescent, Lakeside",High Capacity,MTR-259671,7/2/2024,Active
+W0560,C0560,"96 Mill Street, Cedar Park",Standard,MTR-863189,12/16/2019,Active
+W0561,C0561,"21 Canal Walk, Northbank",Standard,MTR-898187,3/28/2012,Active
+W0562,C0562,"207 Foundry Road, Old Quarter",Shared Meter,MTR-377455,9/24/2014,Active
+W0563,C0563,"82 Orchard Avenue, Riverside",High Capacity,MTR-563857,6/10/2019,Active
+W0564,C0564,"144 Mill Street, Hillview",Standard,MTR-552574,12/17/2024,Active
+W0565,C0565,"215 Garden Row, Market Ward",Fire Line,MTR-744310,6/16/2011,Active
+W0566,C0566,"223 Orchard Avenue, Eastfield",Standard,MTR-884537,4/7/2017,Under Repair
+W0567,C0567,"192 Harbor Way, Southgate",Shared Meter,MTR-283551,12/12/2014,Active
+W0568,C0568,"239 Harbor Way, Westmoor",High Capacity,MTR-628270,7/13/2024,Active
+W0569,C0569,"69 Foundry Road, Lakeside",Fire Line,MTR-792828,11/16/2017,Active
+W0570,C0570,"93 Summit Drive, Cedar Park",Shared Meter,MTR-925091,5/27/2012,Active
+W0571,C0571,"77 Canal Walk, Northbank",Standard,MTR-543364,10/18/2024,Active
+W0572,C0572,"227 Willow Lane, Old Quarter",Shared Meter,MTR-166841,2/13/2021,Disconnected
+W0573,C0573,"112 Canal Walk, Riverside",Shared Meter,MTR-877791,7/27/2013,Active
+W0574,C0574,"132 Maple Crescent, Hillview",High Capacity,MTR-779127,4/8/2009,Active
+W0575,C0575,"17 Harbor Way, Market Ward",Fire Line,MTR-662211,10/23/2017,Active
+W0576,C0576,"102 Canal Walk, Eastfield",High Capacity,MTR-273944,2/1/2014,Active
+W0577,C0577,"204 Mill Street, Southgate",Standard,MTR-299052,10/19/2024,Active
+W0578,C0578,"181 Mill Street, Westmoor",Shared Meter,MTR-970904,7/16/2015,Active
+W0579,C0579,"121 Summit Drive, Lakeside",Shared Meter,MTR-986692,7/1/2019,Active
+W0580,C0580,"229 River Street, Cedar Park",Standard,MTR-846424,1/22/2012,Active
+W0581,C0581,"21 Garden Row, Northbank",Shared Meter,MTR-407848,11/13/2019,Active
+W0582,C0582,"200 Station Road, Old Quarter",Standard,MTR-423707,6/21/2024,Under Repair
+W0583,C0583,"209 Summit Drive, Riverside",Standard,MTR-758258,7/25/2016,Active
+W0584,C0584,"224 Cedar Road, Hillview",Fire Line,MTR-358266,7/11/2009,Active
+W0585,C0585,"188 Canal Walk, Market Ward",Shared Meter,MTR-581836,8/27/2015,Active
+W0586,C0586,"92 Station Road, Eastfield",Standard,MTR-796919,3/6/2020,Active
+W0587,C0587,"69 Maple Crescent, Southgate",Standard,MTR-232731,2/20/2011,Active
+W0588,C0588,"61 Orchard Avenue, Westmoor",Fire Line,MTR-382681,5/8/2020,Active
+W0589,C0589,"229 Mill Street, Lakeside",Standard,MTR-990326,2/21/2018,Active
+W0590,C0590,"4 Willow Lane, Cedar Park",Standard,MTR-537174,10/11/2021,Active
+W0591,C0591,"56 Canal Walk, Northbank",Standard,MTR-588416,11/25/2013,Active
+W0592,C0592,"28 Cedar Road, Old Quarter",Fire Line,MTR-118940,7/11/2015,Active
+W0593,C0593,"163 Harbor Way, Riverside",Shared Meter,MTR-469733,11/25/2010,Active
+W0594,C0594,"7 Mill Street, Hillview",Standard,MTR-527513,9/8/2021,Active
+W0595,C0595,"94 River Street, Market Ward",High Capacity,MTR-330668,8/30/2017,Active
+W0596,C0596,"75 Harbor Way, Eastfield",High Capacity,MTR-997835,1/21/2022,Active
+W0597,C0597,"63 Cedar Road, Southgate",High Capacity,MTR-998222,11/19/2023,Active
+W0598,C0598,"2 Summit Drive, Westmoor",High Capacity,MTR-723652,1/27/2010,Active
+W0599,C0599,"149 Canal Walk, Lakeside",Standard,MTR-472814,6/7/2022,Active
+W0600,C0600,"174 Station Road, Cedar Park",High Capacity,MTR-152918,3/9/2018,Active
+W0601,C0601,"142 Willow Lane, Northbank",High Capacity,MTR-797250,12/15/2012,Active
+W0602,C0602,"53 Station Road, Old Quarter",Standard,MTR-246378,1/15/2020,Active
+W0603,C0603,"214 Summit Drive, Riverside",High Capacity,MTR-452839,12/6/2018,Active
+W0604,C0604,"211 Mill Street, Hillview",Shared Meter,MTR-299862,3/26/2024,Active
+W0605,C0605,"139 Mill Street, Market Ward",High Capacity,MTR-456094,5/14/2015,Active
+W0606,C0606,"12 Willow Lane, Eastfield",High Capacity,MTR-561422,10/17/2019,Active
+W0607,C0607,"69 Summit Drive, Southgate",Standard,MTR-204077,12/2/2019,Active
+W0608,C0608,"17 Cedar Road, Westmoor",Fire Line,MTR-585175,7/11/2025,Active
+W0609,C0609,"169 Harbor Way, Lakeside",Fire Line,MTR-773832,6/29/2018,Active
+W0610,C0610,"2 Summit Drive, Cedar Park",Shared Meter,MTR-578399,1/10/2013,Active
+W0611,C0611,"221 Cedar Road, Northbank",Fire Line,MTR-490782,5/15/2009,Under Repair
+W0612,C0612,"45 Willow Lane, Old Quarter",Fire Line,MTR-713756,8/19/2018,Under Repair
+W0613,C0613,"146 Garden Row, Riverside",Fire Line,MTR-591203,9/27/2023,Active
+W0614,C0614,"206 Station Road, Hillview",Shared Meter,MTR-937017,9/24/2012,Active
+W0615,C0615,"141 Willow Lane, Market Ward",Fire Line,MTR-665634,8/29/2017,Active
+W0616,C0616,"155 Garden Row, Eastfield",Shared Meter,MTR-126762,11/18/2012,Active
+W0617,C0617,"130 Foundry Road, Southgate",High Capacity,MTR-815344,2/15/2014,Active
+W0618,C0618,"201 Harbor Way, Westmoor",Shared Meter,MTR-654843,7/12/2018,Active
+W0619,C0619,"192 Willow Lane, Lakeside",Standard,MTR-933931,7/2/2022,Active
+W0620,C0620,"140 Canal Walk, Cedar Park",High Capacity,MTR-338033,11/12/2017,Active
+W0621,C0621,"158 Willow Lane, Northbank",Fire Line,MTR-771087,8/31/2011,Active
+W0622,C0622,"173 Mill Street, Old Quarter",Fire Line,MTR-303379,7/8/2016,Active
+W0623,C0623,"72 River Street, Riverside",Shared Meter,MTR-926509,5/31/2013,Active
+W0624,C0624,"118 Cedar Road, Hillview",Fire Line,MTR-414774,2/21/2024,Active
+W0625,C0625,"33 Garden Row, Market Ward",Shared Meter,MTR-909188,11/27/2021,Active
+W0626,C0626,"51 Station Road, Eastfield",Standard,MTR-836031,9/9/2014,Active
+W0627,C0627,"94 Mill Street, Southgate",Shared Meter,MTR-231407,7/1/2009,Active
+W0628,C0628,"115 Willow Lane, Westmoor",Standard,MTR-360963,6/10/2025,Active
+W0629,C0629,"157 Foundry Road, Lakeside",High Capacity,MTR-243129,3/5/2023,Active
+W0630,C0630,"118 Orchard Avenue, Cedar Park",High Capacity,MTR-969527,10/25/2014,Active
+W0631,C0631,"148 Foundry Road, Northbank",High Capacity,MTR-685920,12/4/2024,Active
+W0632,C0632,"81 Summit Drive, Old Quarter",Shared Meter,MTR-504998,7/18/2013,Active
+W0633,C0633,"183 Station Road, Riverside",Standard,MTR-689495,2/2/2023,Active
+W0634,C0634,"2 Mill Street, Hillview",Shared Meter,MTR-793401,9/2/2013,Active
+W0635,C0635,"92 Harbor Way, Market Ward",Standard,MTR-346835,2/22/2023,Disconnected
+W0636,C0636,"212 Summit Drive, Eastfield",Fire Line,MTR-112021,8/6/2011,Under Repair
+W0637,C0637,"45 River Street, Southgate",High Capacity,MTR-463307,4/6/2019,Active
+W0638,C0638,"186 Foundry Road, Westmoor",Shared Meter,MTR-503950,1/25/2009,Active
+W0639,C0639,"153 Orchard Avenue, Lakeside",High Capacity,MTR-657132,1/31/2020,Active
+W0640,C0640,"156 Garden Row, Cedar Park",Shared Meter,MTR-495989,10/15/2016,Active
+W0641,C0641,"150 Mill Street, Northbank",Fire Line,MTR-268485,9/25/2009,Active
+W0642,C0642,"135 Summit Drive, Old Quarter",Shared Meter,MTR-235434,7/28/2008,Active
+W0643,C0643,"151 River Street, Riverside",High Capacity,MTR-253791,12/2/2011,Active
+W0644,C0644,"33 Summit Drive, Hillview",Fire Line,MTR-793272,1/22/2013,Active
+W0645,C0645,"118 Canal Walk, Market Ward",Fire Line,MTR-944278,11/16/2009,Active
+W0646,C0646,"104 Foundry Road, Eastfield",Shared Meter,MTR-106424,5/13/2022,Active
+W0647,C0647,"223 Canal Walk, Southgate",Shared Meter,MTR-967586,8/9/2022,Active
+W0648,C0648,"103 River Street, Westmoor",Standard,MTR-724456,2/17/2020,Active
+W0649,C0649,"216 Canal Walk, Lakeside",Fire Line,MTR-266768,3/6/2025,Active
+W0650,C0650,"149 Foundry Road, Cedar Park",Standard,MTR-539359,11/16/2015,Active
+W0651,C0651,"162 Mill Street, Northbank",Shared Meter,MTR-866929,6/2/2013,Active
+W0652,C0652,"187 Mill Street, Old Quarter",High Capacity,MTR-644082,1/16/2023,Active
+W0653,C0653,"174 Cedar Road, Riverside",Fire Line,MTR-596739,10/6/2011,Active
+W0654,C0654,"203 Cedar Road, Hillview",Shared Meter,MTR-716405,9/5/2010,Disconnected
+W0655,C0655,"98 Harbor Way, Market Ward",Standard,MTR-573872,2/3/2008,Active
+W0656,C0656,"202 Garden Row, Eastfield",High Capacity,MTR-303193,7/31/2011,Active
+W0657,C0657,"164 Willow Lane, Southgate",Fire Line,MTR-722291,11/11/2023,Active
+W0658,C0658,"74 Mill Street, Westmoor",High Capacity,MTR-864299,7/16/2008,Active
+W0659,C0659,"22 Orchard Avenue, Lakeside",Standard,MTR-613080,5/3/2020,Disconnected
+W0660,C0660,"230 Foundry Road, Cedar Park",Standard,MTR-527930,3/4/2017,Active
+W0661,C0661,"20 Harbor Way, Northbank",Standard,MTR-549178,12/4/2016,Active
+W0662,C0662,"32 Mill Street, Old Quarter",Standard,MTR-438145,12/27/2014,Active
+W0663,C0663,"28 Summit Drive, Riverside",Shared Meter,MTR-694263,12/8/2018,Active
+W0664,C0664,"206 Garden Row, Hillview",Standard,MTR-567061,5/21/2010,Active
+W0665,C0665,"204 River Street, Market Ward",Standard,MTR-935386,1/13/2017,Disconnected
+W0666,C0666,"198 Orchard Avenue, Eastfield",Shared Meter,MTR-401753,9/23/2012,Active
+W0667,C0667,"143 River Street, Southgate",Fire Line,MTR-190451,11/6/2010,Active
+W0668,C0668,"166 Maple Crescent, Westmoor",Standard,MTR-258719,12/12/2024,Disconnected
+W0669,C0669,"159 Summit Drive, Lakeside",Fire Line,MTR-765714,10/14/2018,Active
+W0670,C0670,"234 Garden Row, Cedar Park",Standard,MTR-352301,6/19/2019,Active
+W0671,C0671,"13 Canal Walk, Northbank",High Capacity,MTR-120355,12/16/2012,Active
+W0672,C0672,"42 Canal Walk, Old Quarter",Standard,MTR-443714,6/1/2019,Active
+W0673,C0673,"146 Orchard Avenue, Riverside",Shared Meter,MTR-961202,9/25/2014,Active
+W0674,C0674,"114 Willow Lane, Hillview",Fire Line,MTR-799056,2/17/2024,Active
+W0675,C0675,"145 Maple Crescent, Market Ward",Standard,MTR-287054,10/11/2015,Active
+W0676,C0676,"63 River Street, Eastfield",Standard,MTR-489035,12/7/2014,Active
+W0677,C0677,"179 Station Road, Southgate",Fire Line,MTR-517867,12/17/2012,Active
+W0678,C0678,"129 River Street, Westmoor",High Capacity,MTR-239362,3/18/2017,Active
+W0679,C0679,"188 River Street, Lakeside",High Capacity,MTR-979001,11/3/2011,Active
+W0680,C0680,"130 Willow Lane, Cedar Park",Standard,MTR-911280,10/10/2010,Active
+W0681,C0681,"218 River Street, Northbank",Standard,MTR-887565,3/30/2010,Active
+W0682,C0682,"142 Mill Street, Old Quarter",Fire Line,MTR-187066,10/15/2011,Active
+W0683,C0683,"4 Summit Drive, Riverside",Fire Line,MTR-142463,3/22/2014,Active
+W0684,C0684,"186 Station Road, Hillview",High Capacity,MTR-775648,10/20/2011,Active
+W0685,C0685,"97 Foundry Road, Market Ward",High Capacity,MTR-491894,4/2/2020,Active
+W0686,C0686,"115 Maple Crescent, Eastfield",Fire Line,MTR-614851,7/23/2025,Active
+W0687,C0687,"54 Orchard Avenue, Southgate",Shared Meter,MTR-130373,7/21/2008,Active
+W0688,C0688,"173 Harbor Way, Westmoor",High Capacity,MTR-583765,6/2/2020,Active
+W0689,C0689,"125 River Street, Lakeside",Fire Line,MTR-792469,12/21/2021,Active
+W0690,C0690,"55 Harbor Way, Cedar Park",High Capacity,MTR-293476,8/1/2011,Active
+W0691,C0691,"176 Cedar Road, Northbank",Shared Meter,MTR-690117,10/5/2015,Active
+W0692,C0692,"35 Mill Street, Old Quarter",Shared Meter,MTR-749187,9/3/2017,Active
+W0693,C0693,"50 Station Road, Riverside",Shared Meter,MTR-531265,3/23/2025,Active
+W0694,C0694,"240 Maple Crescent, Hillview",Shared Meter,MTR-581128,10/15/2015,Active
+W0695,C0695,"78 Willow Lane, Market Ward",High Capacity,MTR-302796,1/13/2009,Active
+W0696,C0696,"155 Cedar Road, Eastfield",Fire Line,MTR-750501,7/3/2025,Active
+W0697,C0697,"221 Willow Lane, Southgate",Shared Meter,MTR-871255,3/15/2010,Active
+W0698,C0698,"205 Station Road, Westmoor",Standard,MTR-977373,11/22/2016,Active
+W0699,C0699,"4 Mill Street, Lakeside",Shared Meter,MTR-658792,3/12/2013,Active
+W0700,C0700,"40 Canal Walk, Cedar Park",Shared Meter,MTR-347823,11/26/2020,Active
+W0701,C0701,"105 Harbor Way, Northbank",High Capacity,MTR-608592,10/13/2011,Active
+W0702,C0702,"221 Garden Row, Old Quarter",Fire Line,MTR-910305,9/10/2015,Active
+W0703,C0703,"10 Foundry Road, Riverside",Fire Line,MTR-522924,12/14/2015,Active
+W0704,C0704,"8 Mill Street, Hillview",Fire Line,MTR-822982,9/3/2014,Active
+W0705,C0705,"89 Orchard Avenue, Market Ward",High Capacity,MTR-584277,12/5/2009,Active
+W0706,C0706,"168 Cedar Road, Eastfield",Standard,MTR-189032,9/16/2014,Active
+W0707,C0707,"143 Harbor Way, Southgate",High Capacity,MTR-836237,9/27/2015,Active
+W0708,C0708,"122 River Street, Westmoor",Shared Meter,MTR-865258,10/9/2024,Under Repair
+W0709,C0709,"70 Garden Row, Lakeside",Fire Line,MTR-311397,11/5/2021,Active
+W0710,C0710,"64 Garden Row, Cedar Park",Fire Line,MTR-118361,3/2/2020,Active
+W0711,C0711,"194 Cedar Road, Northbank",Fire Line,MTR-529168,4/3/2025,Active
+W0712,C0712,"206 Harbor Way, Old Quarter",Fire Line,MTR-817881,3/19/2016,Active
+W0713,C0713,"195 Orchard Avenue, Riverside",Fire Line,MTR-282499,4/13/2016,Active
+W0714,C0714,"82 Willow Lane, Hillview",Shared Meter,MTR-673625,4/2/2023,Active
+W0715,C0715,"13 Summit Drive, Market Ward",Shared Meter,MTR-693477,11/29/2012,Active
+W0716,C0716,"65 Foundry Road, Eastfield",Fire Line,MTR-321304,10/15/2016,Active
+W0717,C0717,"16 Canal Walk, Southgate",High Capacity,MTR-495055,7/25/2012,Active
+W0718,C0718,"130 Summit Drive, Westmoor",Shared Meter,MTR-747887,4/13/2018,Disconnected
+W0719,C0719,"144 Harbor Way, Lakeside",Fire Line,MTR-124159,7/17/2018,Active
+W0720,C0720,"162 Orchard Avenue, Cedar Park",Shared Meter,MTR-336303,3/16/2015,Active
+W0721,C0721,"118 Canal Walk, Northbank",Shared Meter,MTR-825561,7/24/2024,Active
+W0722,C0722,"93 Orchard Avenue, Old Quarter",Standard,MTR-532524,11/7/2011,Active
+W0723,C0723,"197 Cedar Road, Riverside",Fire Line,MTR-875814,12/16/2024,Active
+W0724,C0724,"204 Maple Crescent, Hillview",Fire Line,MTR-782969,4/16/2023,Under Repair
+W0725,C0725,"119 Harbor Way, Market Ward",Fire Line,MTR-156514,12/5/2019,Active
+W0726,C0726,"210 Maple Crescent, Eastfield",Standard,MTR-257487,1/7/2020,Active
+W0727,C0727,"198 Mill Street, Southgate",Fire Line,MTR-385271,10/28/2008,Active
+W0728,C0728,"75 Summit Drive, Westmoor",Shared Meter,MTR-377167,1/28/2017,Active
+W0729,C0729,"234 Summit Drive, Lakeside",Shared Meter,MTR-424898,1/3/2012,Active
+W0730,C0730,"13 Cedar Road, Cedar Park",Shared Meter,MTR-995303,4/21/2013,Active
+W0731,C0731,"177 Summit Drive, Northbank",High Capacity,MTR-472099,8/16/2023,Active
+W0732,C0732,"32 Cedar Road, Old Quarter",Shared Meter,MTR-672394,12/13/2017,Active
+W0733,C0733,"169 Foundry Road, Riverside",High Capacity,MTR-211325,6/25/2025,Active
+W0734,C0734,"222 Harbor Way, Hillview",Fire Line,MTR-976470,8/17/2012,Active
+W0735,C0735,"156 Maple Crescent, Market Ward",Standard,MTR-581879,5/15/2024,Active
+W0736,C0736,"11 Harbor Way, Eastfield",Standard,MTR-774158,2/5/2025,Disconnected
+W0737,C0737,"67 Canal Walk, Southgate",High Capacity,MTR-856100,8/11/2025,Active
+W0738,C0738,"192 Mill Street, Westmoor",Fire Line,MTR-452885,3/26/2016,Active
+W0739,C0739,"25 River Street, Lakeside",High Capacity,MTR-318084,3/7/2010,Active
+W0740,C0740,"170 Garden Row, Cedar Park",High Capacity,MTR-943881,11/4/2011,Disconnected
+W0741,C0741,"47 Garden Row, Northbank",Standard,MTR-292774,4/7/2016,Active
+W0742,C0742,"50 Cedar Road, Old Quarter",Shared Meter,MTR-240536,4/15/2016,Active
+W0743,C0743,"93 River Street, Riverside",Fire Line,MTR-206642,1/5/2009,Active
+W0744,C0744,"167 Harbor Way, Hillview",Fire Line,MTR-803858,3/19/2022,Under Repair
+W0745,C0745,"160 Summit Drive, Market Ward",Standard,MTR-362602,3/26/2025,Active
+W0746,C0746,"171 Maple Crescent, Eastfield",Fire Line,MTR-121435,12/13/2008,Active
+W0747,C0747,"231 Mill Street, Southgate",Shared Meter,MTR-738332,11/26/2018,Active
+W0748,C0748,"168 Canal Walk, Westmoor",High Capacity,MTR-450115,5/14/2019,Active
+W0749,C0749,"158 Orchard Avenue, Lakeside",Fire Line,MTR-196898,11/18/2013,Active
+W0750,C0750,"81 Canal Walk, Cedar Park",Fire Line,MTR-513288,2/24/2025,Active
+W0751,C0751,"138 Foundry Road, Northbank",Fire Line,MTR-447480,5/14/2013,Active
+W0752,C0752,"205 Mill Street, Old Quarter",Shared Meter,MTR-729860,7/18/2018,Disconnected
+W0753,C0753,"175 River Street, Riverside",Shared Meter,MTR-489297,5/14/2021,Active
+W0754,C0754,"210 Orchard Avenue, Hillview",Shared Meter,MTR-699952,8/24/2018,Active
+W0755,C0755,"20 Mill Street, Market Ward",Standard,MTR-561420,3/22/2023,Active
+W0756,C0756,"104 Station Road, Eastfield",Fire Line,MTR-102875,10/2/2015,Active
+W0757,C0757,"171 Cedar Road, Southgate",Standard,MTR-577693,5/28/2010,Active
+W0758,C0758,"180 River Street, Westmoor",High Capacity,MTR-397105,2/20/2023,Active
+W0759,C0759,"73 Willow Lane, Lakeside",Standard,MTR-785082,3/23/2010,Active
+W0760,C0760,"104 Maple Crescent, Cedar Park",Shared Meter,MTR-346375,7/6/2020,Active
+W0761,C0761,"183 Foundry Road, Northbank",Shared Meter,MTR-712461,6/24/2008,Active
+W0762,C0762,"60 River Street, Old Quarter",High Capacity,MTR-368843,9/8/2015,Active
+W0763,C0763,"151 Canal Walk, Riverside",Shared Meter,MTR-735311,11/6/2019,Active
+W0764,C0764,"112 Canal Walk, Hillview",Shared Meter,MTR-877480,1/23/2017,Active
+W0765,C0765,"224 Maple Crescent, Market Ward",Fire Line,MTR-855879,8/16/2022,Active
+W0766,C0766,"163 Garden Row, Eastfield",Shared Meter,MTR-898610,12/11/2009,Active
+W0767,C0767,"90 Station Road, Southgate",Shared Meter,MTR-995612,10/18/2024,Active
+W0768,C0768,"159 Orchard Avenue, Westmoor",High Capacity,MTR-706535,10/10/2025,Active
+W0769,C0769,"4 Mill Street, Lakeside",Shared Meter,MTR-978876,4/14/2024,Active
+W0770,C0770,"137 Station Road, Cedar Park",High Capacity,MTR-340390,9/29/2020,Active
+W0771,C0771,"169 Foundry Road, Northbank",Fire Line,MTR-453020,1/6/2021,Active
+W0772,C0772,"34 Cedar Road, Old Quarter",Fire Line,MTR-241027,1/16/2019,Active
+W0773,C0773,"131 Station Road, Riverside",Shared Meter,MTR-240471,9/1/2017,Active
+W0774,C0774,"123 Garden Row, Hillview",Standard,MTR-206850,8/30/2017,Active
+W0775,C0775,"58 Mill Street, Market Ward",Standard,MTR-338497,2/3/2025,Active
+W0776,C0776,"73 Mill Street, Eastfield",Standard,MTR-815315,10/14/2016,Active
+W0777,C0777,"117 Orchard Avenue, Southgate",Fire Line,MTR-457621,12/2/2021,Active
+W0778,C0778,"108 Canal Walk, Westmoor",Shared Meter,MTR-202972,10/4/2016,Active
+W0779,C0779,"171 Garden Row, Lakeside",Shared Meter,MTR-235576,8/28/2017,Active
+W0780,C0780,"113 Garden Row, Cedar Park",Fire Line,MTR-392522,1/27/2013,Active
+W0781,C0781,"33 River Street, Northbank",Standard,MTR-952914,11/5/2014,Active
+W0782,C0782,"219 River Street, Old Quarter",High Capacity,MTR-998398,10/31/2023,Active
+W0783,C0783,"216 Mill Street, Riverside",Standard,MTR-786637,7/24/2008,Active
+W0784,C0784,"134 Canal Walk, Hillview",High Capacity,MTR-626714,12/17/2009,Active
+W0785,C0785,"140 Harbor Way, Market Ward",Shared Meter,MTR-909126,10/14/2014,Active
+W0786,C0786,"9 Harbor Way, Eastfield",Fire Line,MTR-617945,10/11/2011,Active
+W0787,C0787,"123 Station Road, Southgate",Standard,MTR-724172,5/13/2024,Active
+W0788,C0788,"104 Foundry Road, Westmoor",High Capacity,MTR-515642,10/11/2024,Active
+W0789,C0789,"70 Orchard Avenue, Lakeside",Fire Line,MTR-336547,6/9/2016,Active
+W0790,C0790,"36 Station Road, Cedar Park",Shared Meter,MTR-668929,4/16/2022,Active
+W0791,C0791,"177 Foundry Road, Northbank",Shared Meter,MTR-322182,8/28/2023,Active
+W0792,C0792,"112 Foundry Road, Old Quarter",Fire Line,MTR-219854,1/20/2018,Active
+W0793,C0793,"5 Cedar Road, Riverside",Standard,MTR-742112,1/19/2020,Active
+W0794,C0794,"170 Orchard Avenue, Hillview",High Capacity,MTR-347480,1/19/2022,Active
+W0795,C0795,"76 Foundry Road, Market Ward",Standard,MTR-132539,9/28/2009,Active
+W0796,C0796,"140 Canal Walk, Eastfield",Standard,MTR-709101,1/5/2025,Active
+W0797,C0797,"53 River Street, Southgate",Shared Meter,MTR-151332,12/12/2022,Active
+W0798,C0798,"231 River Street, Westmoor",Shared Meter,MTR-340409,10/15/2017,Active
+W0799,C0799,"34 River Street, Lakeside",Fire Line,MTR-313340,7/5/2023,Active
+W0800,C0800,"204 Station Road, Cedar Park",High Capacity,MTR-810661,7/7/2013,Active
+W0801,C0801,"219 Orchard Avenue, Northbank",Shared Meter,MTR-554483,10/25/2010,Active
+W0802,C0802,"93 Station Road, Old Quarter",Standard,MTR-530397,6/9/2010,Active
+W0803,C0803,"135 Canal Walk, Riverside",Fire Line,MTR-891211,1/24/2012,Active
+W0804,C0804,"90 Willow Lane, Hillview",Fire Line,MTR-536906,8/7/2014,Active
+W0805,C0805,"218 Garden Row, Market Ward",Fire Line,MTR-624666,7/16/2017,Active
+W0806,C0806,"214 Harbor Way, Eastfield",Fire Line,MTR-458525,4/30/2023,Active
+W0807,C0807,"14 Cedar Road, Southgate",Fire Line,MTR-502735,8/3/2018,Active
+W0808,C0808,"164 Mill Street, Westmoor",High Capacity,MTR-497664,10/30/2023,Active
+W0809,C0809,"235 Willow Lane, Lakeside",High Capacity,MTR-376165,11/15/2016,Active
+W0810,C0810,"163 Station Road, Cedar Park",Shared Meter,MTR-955847,12/22/2019,Active
+W0811,C0811,"234 Cedar Road, Northbank",Standard,MTR-460355,1/26/2016,Active
+W0812,C0812,"60 Harbor Way, Old Quarter",Shared Meter,MTR-238597,7/13/2011,Active
+W0813,C0813,"6 River Street, Riverside",High Capacity,MTR-463126,3/2/2018,Active
+W0814,C0814,"131 Summit Drive, Hillview",Shared Meter,MTR-420155,10/4/2021,Disconnected
+W0815,C0815,"118 Willow Lane, Market Ward",Shared Meter,MTR-628389,2/27/2018,Active
+W0816,C0816,"206 Orchard Avenue, Eastfield",Fire Line,MTR-884702,2/21/2010,Active
+W0817,C0817,"91 Canal Walk, Southgate",Fire Line,MTR-372972,9/18/2025,Active
+W0818,C0818,"94 Garden Row, Westmoor",High Capacity,MTR-865117,2/5/2022,Active
+W0819,C0819,"44 Station Road, Lakeside",Shared Meter,MTR-487506,7/2/2016,Active
+W0820,C0820,"49 Garden Row, Cedar Park",Fire Line,MTR-412047,6/22/2015,Active
+W0821,C0821,"122 Summit Drive, Northbank",Shared Meter,MTR-125450,12/23/2017,Active
+W0822,C0822,"189 Summit Drive, Old Quarter",Shared Meter,MTR-813524,1/24/2020,Disconnected
+W0823,C0823,"199 River Street, Riverside",High Capacity,MTR-958505,4/1/2009,Active
+W0824,C0824,"61 Orchard Avenue, Hillview",Fire Line,MTR-685709,1/10/2021,Active
+W0825,C0825,"182 Willow Lane, Market Ward",High Capacity,MTR-154191,6/2/2009,Active
+W0826,C0826,"181 Orchard Avenue, Eastfield",Standard,MTR-180963,12/16/2016,Active
+W0827,C0827,"16 Willow Lane, Southgate",Standard,MTR-460562,6/19/2023,Active
+W0828,C0828,"146 Harbor Way, Westmoor",Shared Meter,MTR-334007,12/21/2024,Active
+W0829,C0829,"81 Orchard Avenue, Lakeside",High Capacity,MTR-835503,4/10/2010,Active
+W0830,C0830,"167 Summit Drive, Cedar Park",Fire Line,MTR-118112,5/1/2021,Active
+W0831,C0831,"69 Summit Drive, Northbank",High Capacity,MTR-355666,11/22/2014,Active
+W0832,C0832,"96 Maple Crescent, Old Quarter",High Capacity,MTR-668986,8/27/2017,Active
+W0833,C0833,"188 Canal Walk, Riverside",Standard,MTR-157145,4/16/2014,Active
+W0834,C0834,"119 Garden Row, Hillview",High Capacity,MTR-331376,7/15/2021,Active
+W0835,C0835,"160 Garden Row, Market Ward",Standard,MTR-642984,11/26/2011,Active
+W0836,C0836,"54 Garden Row, Eastfield",High Capacity,MTR-802157,10/17/2025,Active
+W0837,C0837,"233 Station Road, Southgate",High Capacity,MTR-274235,12/30/2021,Active
+W0838,C0838,"14 Willow Lane, Westmoor",Standard,MTR-250661,6/28/2017,Active
+W0839,C0839,"190 Canal Walk, Lakeside",Standard,MTR-859686,4/6/2019,Active
+W0840,C0840,"78 Garden Row, Cedar Park",Fire Line,MTR-736968,2/12/2020,Active
+W0841,C0841,"94 River Street, Northbank",Standard,MTR-628795,7/23/2013,Active
+W0842,C0842,"14 Mill Street, Old Quarter",Fire Line,MTR-571285,3/4/2018,Active
+W0843,C0843,"91 Canal Walk, Riverside",Fire Line,MTR-283800,10/15/2011,Active
+W0844,C0844,"78 Willow Lane, Hillview",Shared Meter,MTR-295500,12/25/2023,Active
+W0845,C0845,"215 Summit Drive, Market Ward",Shared Meter,MTR-656142,10/30/2021,Active
+W0846,C0846,"219 Willow Lane, Eastfield",High Capacity,MTR-862540,7/24/2013,Active
+W0847,C0847,"143 Willow Lane, Southgate",High Capacity,MTR-308042,6/19/2016,Active
+W0848,C0848,"80 Cedar Road, Westmoor",Standard,MTR-160784,8/19/2019,Active
+W0849,C0849,"149 River Street, Lakeside",High Capacity,MTR-625768,2/25/2015,Active
+W0850,C0850,"118 Cedar Road, Cedar Park",Standard,MTR-902087,2/8/2022,Active
+W0851,C0851,"168 Garden Row, Northbank",Standard,MTR-868682,2/15/2018,Active
+W0852,C0852,"191 Harbor Way, Old Quarter",Fire Line,MTR-405519,6/11/2022,Active
+W0853,C0853,"203 Mill Street, Riverside",Fire Line,MTR-871950,4/5/2022,Active
+W0854,C0854,"1 River Street, Hillview",Fire Line,MTR-349712,6/3/2019,Active
+W0855,C0855,"211 Garden Row, Market Ward",Standard,MTR-382053,6/1/2016,Active
+W0856,C0856,"34 Harbor Way, Eastfield",Standard,MTR-564070,2/5/2018,Active
+W0857,C0857,"33 Mill Street, Southgate",High Capacity,MTR-691929,10/3/2021,Active
+W0858,C0858,"231 Summit Drive, Westmoor",Shared Meter,MTR-690729,7/30/2019,Active
+W0859,C0859,"174 Orchard Avenue, Lakeside",High Capacity,MTR-716043,2/20/2013,Active
+W0860,C0860,"158 Cedar Road, Cedar Park",Fire Line,MTR-551747,1/27/2015,Active
+W0861,C0861,"164 Station Road, Northbank",Fire Line,MTR-761049,8/1/2020,Active
+W0862,C0862,"199 Summit Drive, Old Quarter",Fire Line,MTR-241625,2/9/2020,Active
+W0863,C0863,"8 Willow Lane, Riverside",Shared Meter,MTR-404621,2/20/2010,Active
+W0864,C0864,"218 Mill Street, Hillview",High Capacity,MTR-103409,7/21/2018,Active
+W0865,C0865,"172 Orchard Avenue, Market Ward",Fire Line,MTR-445163,10/3/2010,Active
+W0866,C0866,"234 Cedar Road, Eastfield",Shared Meter,MTR-636173,10/22/2017,Active
+W0867,C0867,"13 Summit Drive, Southgate",Shared Meter,MTR-792255,2/13/2019,Active
+W0868,C0868,"236 Station Road, Westmoor",High Capacity,MTR-567542,5/2/2014,Active
+W0869,C0869,"178 Orchard Avenue, Lakeside",Shared Meter,MTR-499550,2/19/2009,Active
+W0870,C0870,"137 Orchard Avenue, Cedar Park",Standard,MTR-364336,9/2/2014,Active
+W0871,C0871,"21 Orchard Avenue, Northbank",Fire Line,MTR-363944,4/5/2015,Active
+W0872,C0872,"40 Station Road, Old Quarter",Standard,MTR-343132,11/12/2023,Active
+W0873,C0873,"238 Summit Drive, Riverside",Standard,MTR-371693,4/24/2022,Active
+W0874,C0874,"206 Harbor Way, Hillview",Standard,MTR-909586,8/3/2018,Active
+W0875,C0875,"109 Summit Drive, Market Ward",High Capacity,MTR-790532,6/6/2021,Active
+W0876,C0876,"81 Garden Row, Eastfield",Shared Meter,MTR-240108,7/26/2008,Active
+W0877,C0877,"116 Orchard Avenue, Southgate",Standard,MTR-494326,11/5/2024,Active
+W0878,C0878,"69 Summit Drive, Westmoor",High Capacity,MTR-117745,1/28/2009,Active
+W0879,C0879,"150 Station Road, Lakeside",Fire Line,MTR-840968,10/31/2020,Active
+W0880,C0880,"107 Garden Row, Cedar Park",Fire Line,MTR-935362,2/3/2020,Active
+W0881,C0881,"226 Harbor Way, Northbank",Fire Line,MTR-993049,9/21/2025,Active
+W0882,C0882,"77 Garden Row, Old Quarter",Standard,MTR-895230,12/2/2009,Disconnected
+W0883,C0883,"171 Cedar Road, Riverside",Fire Line,MTR-676444,7/7/2016,Active
+W0884,C0884,"72 Canal Walk, Hillview",Shared Meter,MTR-565026,2/21/2015,Active
+W0885,C0885,"73 Canal Walk, Market Ward",Fire Line,MTR-561819,4/17/2015,Active
+W0886,C0886,"142 Mill Street, Eastfield",Shared Meter,MTR-353648,8/21/2022,Active
+W0887,C0887,"239 Summit Drive, Southgate",Fire Line,MTR-769372,2/2/2020,Active
+W0888,C0888,"50 Canal Walk, Westmoor",Shared Meter,MTR-466806,12/23/2017,Active
+W0889,C0889,"166 River Street, Lakeside",Shared Meter,MTR-644794,3/21/2025,Active
+W0890,C0890,"111 Canal Walk, Cedar Park",Shared Meter,MTR-218591,11/7/2009,Active
+W0891,C0891,"103 Orchard Avenue, Northbank",Shared Meter,MTR-701433,1/7/2017,Active
+W0892,C0892,"238 Orchard Avenue, Old Quarter",Standard,MTR-403437,4/13/2022,Active
+W0893,C0893,"26 Mill Street, Riverside",Standard,MTR-401984,8/8/2023,Active
+W0894,C0894,"190 River Street, Hillview",Standard,MTR-772184,5/15/2020,Active
+W0895,C0895,"183 Willow Lane, Market Ward",Shared Meter,MTR-683154,8/19/2013,Active
+W0896,C0896,"33 Foundry Road, Eastfield",Shared Meter,MTR-551685,6/15/2018,Active
+W0897,C0897,"4 Willow Lane, Southgate",Standard,MTR-940330,1/10/2010,Active
+W0898,C0898,"135 Maple Crescent, Westmoor",Standard,MTR-633714,1/2/2024,Active
+W0899,C0899,"67 Foundry Road, Lakeside",High Capacity,MTR-268760,9/21/2023,Active
+W0900,C0900,"2 Maple Crescent, Cedar Park",High Capacity,MTR-492312,8/10/2013,Active
+W0901,C0901,"158 Cedar Road, Northbank",High Capacity,MTR-985293,7/1/2012,Active
+W0902,C0902,"115 Harbor Way, Old Quarter",High Capacity,MTR-499908,10/15/2012,Active
+W0903,C0903,"194 Maple Crescent, Riverside",Standard,MTR-475166,9/22/2023,Active
+W0904,C0904,"1 Garden Row, Hillview",Fire Line,MTR-659202,4/18/2014,Active
+W0905,C0905,"211 Foundry Road, Market Ward",Shared Meter,MTR-283801,2/15/2008,Disconnected
+W0906,C0906,"53 Station Road, Eastfield",Shared Meter,MTR-113302,4/25/2011,Active
+W0907,C0907,"238 Orchard Avenue, Southgate",High Capacity,MTR-793878,9/4/2012,Active
+W0908,C0908,"33 Willow Lane, Westmoor",Standard,MTR-953536,3/18/2017,Active
+W0909,C0909,"68 Foundry Road, Lakeside",High Capacity,MTR-369668,6/9/2019,Active
+W0910,C0910,"149 Mill Street, Cedar Park",Standard,MTR-595997,2/1/2015,Active
+W0911,C0911,"177 Cedar Road, Northbank",High Capacity,MTR-295342,7/1/2009,Active
+W0912,C0912,"222 Summit Drive, Old Quarter",Standard,MTR-366404,2/18/2008,Active
+W0913,C0913,"160 Canal Walk, Riverside",Fire Line,MTR-578556,11/5/2014,Active
+W0914,C0914,"75 Orchard Avenue, Hillview",Standard,MTR-585078,5/17/2008,Active
+W0915,C0915,"216 Canal Walk, Market Ward",High Capacity,MTR-634846,10/10/2013,Active
+W0916,C0916,"136 Summit Drive, Eastfield",High Capacity,MTR-789687,5/6/2010,Active
+W0917,C0917,"49 Station Road, Southgate",Fire Line,MTR-981962,10/16/2022,Active
+W0918,C0918,"60 Summit Drive, Westmoor",High Capacity,MTR-236981,6/4/2015,Disconnected
+W0919,C0919,"15 Foundry Road, Lakeside",Fire Line,MTR-507796,3/12/2023,Active
+W0920,C0920,"163 Orchard Avenue, Cedar Park",High Capacity,MTR-440229,12/12/2022,Active
+W0921,C0921,"39 Mill Street, Northbank",Fire Line,MTR-475448,12/8/2011,Active
+W0922,C0922,"155 Mill Street, Old Quarter",Shared Meter,MTR-451725,1/6/2017,Active
+W0923,C0923,"77 Station Road, Riverside",Shared Meter,MTR-174908,5/12/2011,Active
+W0924,C0924,"22 Garden Row, Hillview",Fire Line,MTR-364713,3/16/2013,Active
+W0925,C0925,"238 Willow Lane, Market Ward",Shared Meter,MTR-158604,4/30/2012,Active
+W0926,C0926,"39 Canal Walk, Eastfield",Shared Meter,MTR-361610,6/25/2009,Active
+W0927,C0927,"223 Station Road, Southgate",Shared Meter,MTR-805369,6/24/2008,Active
+W0928,C0928,"179 Garden Row, Westmoor",Shared Meter,MTR-137910,10/11/2015,Active
+W0929,C0929,"45 Cedar Road, Lakeside",Standard,MTR-543267,1/28/2011,Active
+W0930,C0930,"20 Mill Street, Cedar Park",Standard,MTR-498466,7/8/2011,Active
+W0931,C0931,"182 Foundry Road, Northbank",Standard,MTR-887526,5/6/2025,Active
+W0932,C0932,"234 Willow Lane, Old Quarter",Fire Line,MTR-178006,6/21/2019,Active
+W0933,C0933,"10 Garden Row, Riverside",Standard,MTR-862323,6/16/2009,Active
+W0934,C0934,"181 Harbor Way, Hillview",Shared Meter,MTR-978395,3/25/2008,Active
+W0935,C0935,"109 Maple Crescent, Market Ward",Shared Meter,MTR-813301,5/20/2012,Active
+W0936,C0936,"211 Summit Drive, Eastfield",Shared Meter,MTR-573363,8/16/2009,Active
+W0937,C0937,"90 Cedar Road, Southgate",High Capacity,MTR-124867,6/27/2017,Disconnected
+W0938,C0938,"126 Garden Row, Westmoor",Shared Meter,MTR-724813,7/14/2018,Active
+W0939,C0939,"49 Maple Crescent, Lakeside",High Capacity,MTR-800361,1/22/2020,Active
+W0940,C0940,"205 Foundry Road, Cedar Park",Shared Meter,MTR-898485,4/20/2022,Active
+W0941,C0941,"33 Mill Street, Northbank",Shared Meter,MTR-736610,1/12/2024,Active
+W0942,C0942,"102 Cedar Road, Old Quarter",High Capacity,MTR-389814,6/14/2016,Under Repair
+W0943,C0943,"50 Orchard Avenue, Riverside",High Capacity,MTR-289283,6/25/2019,Active
+W0944,C0944,"65 Garden Row, Hillview",Fire Line,MTR-786529,9/5/2022,Under Repair
+W0945,C0945,"181 Summit Drive, Market Ward",Standard,MTR-338500,7/17/2010,Under Repair
+W0946,C0946,"164 Willow Lane, Eastfield",Shared Meter,MTR-141624,6/10/2010,Active
+W0947,C0947,"108 Canal Walk, Southgate",Fire Line,MTR-238175,6/10/2022,Disconnected
+W0948,C0948,"221 Harbor Way, Westmoor",Standard,MTR-788655,5/3/2022,Active
+W0949,C0949,"218 Cedar Road, Lakeside",Standard,MTR-438519,1/9/2023,Active
+W0950,C0950,"178 Garden Row, Cedar Park",Fire Line,MTR-457489,7/27/2015,Active
+W0951,C0951,"174 Maple Crescent, Northbank",Fire Line,MTR-127577,8/27/2016,Active
+W0952,C0952,"196 Maple Crescent, Old Quarter",Standard,MTR-912925,9/17/2009,Active
+W0953,C0953,"150 Station Road, Riverside",Fire Line,MTR-765916,6/3/2015,Active
+W0954,C0954,"133 Garden Row, Hillview",High Capacity,MTR-526879,10/25/2015,Active
+W0955,C0955,"198 Garden Row, Market Ward",High Capacity,MTR-714524,1/16/2011,Active
+W0956,C0956,"71 Mill Street, Eastfield",Standard,MTR-429195,4/12/2013,Active
+W0957,C0957,"33 River Street, Southgate",Shared Meter,MTR-270194,7/10/2025,Active
+W0958,C0958,"232 Maple Crescent, Westmoor",Fire Line,MTR-504530,7/1/2016,Active
+W0959,C0959,"168 Cedar Road, Lakeside",Standard,MTR-685130,7/18/2022,Active
+W0960,C0960,"196 River Street, Cedar Park",Shared Meter,MTR-868415,5/9/2011,Active
+W0961,C0961,"158 Foundry Road, Northbank",Shared Meter,MTR-445991,7/10/2016,Active
+W0962,C0962,"178 Station Road, Old Quarter",Shared Meter,MTR-507610,2/5/2018,Disconnected
+W0963,C0963,"145 Willow Lane, Riverside",Fire Line,MTR-904165,4/5/2014,Active
+W0964,C0964,"224 Harbor Way, Hillview",High Capacity,MTR-643679,3/23/2020,Active
+W0965,C0965,"220 Harbor Way, Market Ward",Fire Line,MTR-133972,8/4/2016,Active
+W0966,C0966,"223 Canal Walk, Eastfield",Fire Line,MTR-450507,7/17/2024,Active
+W0967,C0967,"130 Station Road, Southgate",High Capacity,MTR-769047,10/11/2010,Active
+W0968,C0968,"211 Canal Walk, Westmoor",Shared Meter,MTR-339138,6/18/2009,Active
+W0969,C0969,"95 Garden Row, Lakeside",Standard,MTR-554500,10/30/2016,Active
+W0970,C0970,"192 Willow Lane, Cedar Park",Standard,MTR-387129,12/28/2014,Active
+W0971,C0971,"218 Orchard Avenue, Northbank",Standard,MTR-828255,6/25/2023,Active
+W0972,C0972,"76 Harbor Way, Old Quarter",Standard,MTR-399403,9/1/2017,Active
+W0973,C0973,"42 River Street, Riverside",Fire Line,MTR-709818,5/4/2008,Active
+W0974,C0974,"72 Foundry Road, Hillview",Fire Line,MTR-634724,2/5/2010,Active
+W0975,C0975,"189 Summit Drive, Market Ward",High Capacity,MTR-698315,6/25/2020,Active
+W0976,C0976,"199 Garden Row, Eastfield",Shared Meter,MTR-306472,7/25/2023,Active
+W0977,C0977,"77 Station Road, Southgate",High Capacity,MTR-309083,4/13/2013,Active
+W0978,C0978,"125 Orchard Avenue, Westmoor",Shared Meter,MTR-989181,6/4/2019,Active
+W0979,C0979,"220 Cedar Road, Lakeside",Shared Meter,MTR-438990,4/12/2014,Active
+W0980,C0980,"3 Summit Drive, Cedar Park",Fire Line,MTR-571126,7/22/2020,Active
+W0981,C0981,"25 Garden Row, Northbank",Fire Line,MTR-589361,4/26/2022,Active
+W0982,C0982,"188 Foundry Road, Old Quarter",Fire Line,MTR-647159,8/22/2025,Active
+W0983,C0983,"160 Orchard Avenue, Riverside",Shared Meter,MTR-745984,9/6/2023,Active
+W0984,C0984,"63 Mill Street, Hillview",High Capacity,MTR-432026,12/16/2010,Active
+W0985,C0985,"99 Willow Lane, Market Ward",Shared Meter,MTR-775594,5/30/2016,Under Repair
+W0986,C0986,"38 Canal Walk, Eastfield",Shared Meter,MTR-934843,1/9/2010,Active
+W0987,C0987,"35 Garden Row, Southgate",High Capacity,MTR-776595,2/22/2021,Active
+W0988,C0988,"198 Cedar Road, Westmoor",High Capacity,MTR-779321,11/14/2014,Active
+W0989,C0989,"126 Harbor Way, Lakeside",High Capacity,MTR-706029,2/23/2017,Active
+W0990,C0990,"12 Willow Lane, Cedar Park",Fire Line,MTR-238607,1/22/2019,Active
+W0991,C0991,"170 Orchard Avenue, Northbank",Fire Line,MTR-275216,7/5/2014,Active
+W0992,C0992,"159 Orchard Avenue, Old Quarter",High Capacity,MTR-668801,2/14/2008,Active
+W0993,C0993,"186 Mill Street, Riverside",Shared Meter,MTR-616817,8/26/2014,Disconnected
+W0994,C0994,"143 Mill Street, Hillview",Standard,MTR-702827,12/19/2011,Active
+W0995,C0995,"223 River Street, Market Ward",Standard,MTR-878489,5/31/2015,Active
+W0996,C0996,"199 Foundry Road, Eastfield",Standard,MTR-153639,1/23/2013,Active
+W0997,C0997,"34 Mill Street, Southgate",Fire Line,MTR-538143,6/6/2018,Active
+W0998,C0998,"100 Maple Crescent, Westmoor",Standard,MTR-411028,2/7/2009,Active
+W0999,C0999,"174 Summit Drive, Lakeside",Fire Line,MTR-196885,3/3/2013,Active
+W1000,C1000,"206 River Street, Cedar Park",High Capacity,MTR-874284,5/23/2023,Active
